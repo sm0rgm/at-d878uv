@@ -19,10 +19,6 @@ Det här är min kodplugg till min Anytone AT-D878UV. Jag använder CPS version 
 
 Om du vill bidra med något så är du naturligtvis välkommen att göra så antingen genom att skapa en Pull Request (kräver en del kunskap om hur GitHub funkar) eller genom att skapa ett [issue](https://github.com/sm0rgm/at-d878uv/issues).
 
-## Digitala kontaktlistor
-
-Kodpluggen är testad med min AT-D878UV men fungerar sannolikt till andra versioner av Anytones modeller. Eftersom AT-D878UV är begränsad till 200000 kontakter så är den kontaktlistan som medföljer också begränsad då antalet DMR-IDn idag överstiger 200000. Har du en modell som inte har denna begränsning så kan du istället välja att använda den kontaktlista som har ordet "all" i filnamnet då denna innehåller hela världens alla DMR-IDn.
-
 ## Vad ingår i filerna?
 
 Alla repeatrar i Sverige som kan köra DMR eller FM är inkluderade (källa: [sk6ba.se](https://sk6ba.se/repeater/karta/)). Även repeatrar som kör exempelvis C4FM och FM finns med. Repeatrarna är indelade distriksvis. Tyvärr finns det så många repeatrar i sjätte distriktet att alla inte får plats i scanning-listan.
