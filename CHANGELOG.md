@@ -1,9 +1,10 @@
 
 # Changelog
 
-## 2023-03-26
+## 2023-03-27
 
 * Samtliga A/D och D/A kanaler har fått som har CTCSS ENCODE har fått CTCSS DECODE, d v s tone squelch för att underlätta vid scanning. (SM0RGM)
+* Repeatrar ansluta till svxlink märkta med "SVX"
 * Ändrade, tillagda och borttagna kanaler per zon:
     * Simplex
         * +Hotspot ("HS") 434.475 MHz, CC1, TS2
@@ -23,6 +24,15 @@
         * -Stockholm 3 433.4000 DMR
         * -Sodertalje 1 145.7000 FM
         * -Toro 145.7375 FM
+    * SM2
+        * +Storuman 1 145.7250 FM
+        * -Jorn 145.7500 FM
+        * +Storuman 2 434.7500 FM
+        * Skelleftea bytt till Skelleftea 1
+        * +Skelleftea 2 145.5875 FM
+        * +Skelleftea 3 SVX 434.6750 FM
+        * +Kiruna 4 SVX 434.4000 FM
+        * +Burtrask SVX 434.9500 FM
     * SM5
         * +Motala 145.7375 FM
 
@@ -34,4 +44,5 @@
 ## 2023-03-25
 
 * Ändrade APRS TOCALL till APAT81 enligt [issue 27 rapporterat av SM6VFJ](https://github.com/sm0rux/at-d878uv/issues/27) (SM0RGM)
-*
+
+
