@@ -33,10 +33,20 @@
         * +Skelleftea 3 SVX 434.6750 FM
         * +Kiruna 4 SVX 434.4000 FM
         * +Burtrask SVX 434.9500 FM
+    * SM3
+        * Gavle 1 bytt från 434.7375 till 434.7000 DMR
+        * -Bollnas 3 434.5500 DMR 
+        * -Bollnas 1 145.5875 DMR
+        * -Sundsvall 2 434.5375 DMR
+        * Solleftea bytt till Solleftea 1
+        * +Solleftea 2 434.9250 FM
+        * +Svedja SVX 145.6000 FM (SK3RQE)
+        * Osterfarnebo 145.5500 FM bytt till Osterfarnebo SVX 434.6500 FM
+        * -Sandviken 2 434.7000 FM
     * SM5
         * +Motala 145.7375 FM
 
-* Receive Group Call; Swedenhubb ändrat till Sweden-hub
+* Receive Group Call; 240216 Swedenhubb ändrat till 240216 Sweden-hub
 
 * TODO:
     * Scanlist SM0 mer max 50, dela upp i två?
