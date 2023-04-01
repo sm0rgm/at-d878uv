@@ -25,6 +25,17 @@ Alla repeatrar i Sverige som kan köra DMR eller FM är inkluderade (källa: [sk
 
 DMR-repeatrarna är också indelade i roaming-zoner för att få roamingen att funka på ett smidigt sätt.
 
+## Boot logo
+
+Bland filerna i kodpluggen finner du filen SSA.jpg. Det är SSAs logotype som kan användas som startbild. Gör så här:
+
+* I CPS, gå till Tool -> Boot image (när radion är ansluten till datorn)
+* Klicka på Open Image och välj filen SSA.jpg
+* Logon ska ny synas i bildfönstret, annars är något fel
+* Klicka på Write
+* Gå till Optional Setting -> Power on -> Power-on interface -> Custom picture
+* Spara ändringarna till radion
+
 ## Vad du måste göra!
 
 ### Vilka filer ska du hämta?
