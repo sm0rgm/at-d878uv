@@ -1,16 +1,16 @@
 
 # Changelog
 
-## 2023-03-27
+## 2023-03-27 (SM0RGM)
 
-* Samtliga A/D och D/A kanaler har fått som har CTCSS ENCODE har fått CTCSS DECODE, d v s tone squelch för att underlätta vid scanning. (SM0RGM)
+* Samtliga A/D och D/A kanaler har fått som har CTCSS ENCODE har fått CTCSS DECODE, d v s tone squelch för att underlätta vid scanning.
 * Repeatrar ansluta till svxlink märkta med "SVX"
 * Ändrade, tillagda och borttagna kanaler per zon:
     * Simplex
         * +Hotspot ("HS") 434.475 MHz, CC1, TS2
     * SM0
-        * -Botkyrka 1 D
-        * +Stockholm 1 A
+        * -Botkyrka 1 DMR
+        * +Stockholm 1 FM
         * -Varmdo borttagen ur roaming zone då den saknar anslutning till BM
         * +Haninge 4 434.5375 FM
         * +Skarpnäck 145.7000 FM
@@ -53,6 +53,11 @@
         * +Alvdalen SVX 145.2500 FM
         * Lindesberg bytt till Lindesberg 1
         * +Lindesberg 2 SVX 145.3000 FM
+        * -Filipstad 2 145.7000 FM
+        * -Kopparberg 2 434.6375 DMR
+        * -Kristinehamn 434.9250 FM
+        * -Mora 1 145.7000 FM
+        * -Mora 2 434.6750 FM
     * SM5
         * +Motala 145.7375 FM
         * Norrköping 3 434.6000 FM lagt till subton 82.5 Hz SVX
@@ -75,9 +80,10 @@
 
 * TODO:
     * Scanlist SM0 mer max 50, dela upp i två?
+    * LA, OH, OZ är inte uppdaterade
 
-## 2023-03-25
+## 2023-03-25 (SM0RGM)
 
-* Ändrade APRS TOCALL till APAT81 enligt [issue 27 rapporterat av SM6VFJ](https://github.com/sm0rux/at-d878uv/issues/27) (SM0RGM)
+* Ändrade APRS TOCALL till APAT81 enligt [issue 27 rapporterat av SM6VFJ](https://github.com/sm0rux/at-d878uv/issues/27) 
 
 
