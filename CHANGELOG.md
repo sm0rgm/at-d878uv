@@ -43,8 +43,33 @@
         * +Svedja SVX 145.6000 FM (SK3RQE)
         * Osterfarnebo 145.5500 FM bytt till Osterfarnebo SVX 434.6500 FM
         * -Sandviken 2 434.7000 FM
+    * SM4
+        * Mora 3 434.8500 -> 434.7000 FM
+        * Vansbro 1 + 2 lagt till 85.4 Hz subton
+        * Karlskoga 2 434.850 -> 434.8000 FM/DMR
+        * Falun 2 rättad fr 145.6250 till 434.6250 DMR
+        * Malung 434.8500 -> 144.8375 DMR
+        * +Salen SVX 145.6000 FM
+        * +Alvdalen SVX 145.2500 FM
+        * Lindesberg bytt till Lindesberg 1
+        * +Lindesberg 2 SVX 145.3000 FM
     * SM5
         * +Motala 145.7375 FM
+        * Norrköping 3 434.6000 FM lagt till subton 82.5 Hz SVX
+        * Västerås 1 nu SVX
+        * Linköping 3 nu SVX
+        * Linköping 1 lagt subton 82.5 Hz
+        * Flen 2 nu Flen 3 SVX
+        * Finspang nu Finspang 1
+        * +Finspang 2 434.8125 DMR
+        * Nykoping ny Nykoping 1
+        * +Nykoping2 434.6375 DMR
+        * Stigtomta bytt från FM till DMR
+        * Sala nu Sala 1
+        * +Sala 2 434.9375 DMR
+        * +Uppsala 8 SVX 144.5750 FM
+        * +Uppsala 9 SVX 433.4500 FM
+        * +Flen 2 145.7625 FM
 
 * Receive Group Call; 240216 Swedenhubb ändrat till 240216 Sweden-hub
 
