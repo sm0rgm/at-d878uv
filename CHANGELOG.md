@@ -1,7 +1,7 @@
 
 # Changelog
 
-## 2023-03-27 (SM0RGM)
+## 2023-04-02 (SM0RGM)
 
 * Samtliga A/D och D/A kanaler har fått som har CTCSS ENCODE har fått CTCSS DECODE, d v s tone squelch för att underlätta vid scanning.
 * Repeatrar ansluta till svxlink märkta med "SVX"
@@ -75,11 +75,14 @@
         * +Uppsala 8 SVX 144.5750 FM
         * +Uppsala 9 SVX 433.4500 FM
         * +Flen 2 145.7625 FM
+    * Marin-VHF
+        * Innehåller nu samtliga marin-VHF-kanaler
 
 * Receive Group Call; 240216 Swedenhubb ändrat till 240216 Sweden-hub
 
 * TODO:
     * Scanlist SM0 mer max 50, dela upp i två?
+    * Komplett kanaltabell för Marin-VHF
     * LA, OH, OZ är inte uppdaterade
 
 ## 2023-03-25 (SM0RGM)
