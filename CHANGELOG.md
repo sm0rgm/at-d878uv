@@ -75,15 +75,57 @@
         * +Uppsala 8 SVX 144.5750 FM
         * +Uppsala 9 SVX 433.4500 FM
         * +Flen 2 145.7625 FM
+    * SM6
+        * Boras 4 nu SVX
+        * -Molndal 1 145.7000 FM
+        * -Molndal 2 434.7000 FM
+        * Alingsas 4 nu SVX
+        * Bengsfors 1 korrigerad till Bengtsfors 1
+        * Bengsfors 2 korrigerad till Bengtsfors 2 samt subton korrigerad till 114.8 Hz
+        * Bokenas nu SVX
+        * Lysekil nu SVX
+        * Tanumshede nu SVX
+        * Falkenberg nu SVX
+        * Stenungsund 2 nu SVX
+        * Goteborg 4 nu SVX
+        * Goteborg 3 nu SVX
+        * Kungshamn nu SVX
+        * Hono 2 145.7500 FM nu Ockero 1 SVX 145.7500 FM
+        * Hono 3 434.8500 DMR nu Ockero 2 434.8500 DMR
+        * +Stenungsund 3 SVX 434.5625 FM/DMR
+        * Ytterby nu SVX och subton 218.1 Hz samt bytt från DMR till FM
+        * Uddevalla nu SVX
+        * Skara 434.9875 FM/DMR bytt till Skara 3
+        * +Skara 1 145.7250 FM
+        * Trollhattan 2 bytt till Trollhattan 3 434.8750 FM/DMR
+        * +Trollhattan 2 434.7250 FM
+        * +Skara 2 434.5625 FM
+        * +Torup SVX 434.8875 FM
+        * +Hjo SVX 145.2375 FM
+        * +Hajom SVX 145.4000 FM
+        * +Istorp SVX 145.2875 FM
+        * Uddevalla 1 145.6375 FM/DMR bytt till Udddevalla 1 SVX 145.7375 FM/DMR
+        * -Lidkoping 145.3000 FM
+        * -Aleklatten 144.6125 FM
+        * -Alingsas 1 144.6125 FM
+        * -Falkoping 145.7250 FM
+        * -Landvetter 144.5625 FM
+        * -Sloinge 145.7375 FM/DMR
+        * -Stenungsund 1 145.6875 FM
+        * -Torestorp 144.6625 FM
+        * -Vastra Frolunda 144.5375 FM
+        * -Orby 434.2250 FM
     * Marin-VHF
         * Innehåller nu samtliga marin-VHF-kanaler
+    * OZ
+        * Hilolerod (typo) korrigerad till Hillerod
 
 * Receive Group Call; 240216 Swedenhubb ändrat till 240216 Sweden-hub
 
 * TODO:
     * Scanlist SM0 mer max 50, dela upp i två?
-    * Komplett kanaltabell för Marin-VHF
     * LA, OH, OZ är inte uppdaterade
+    * Skall benämningarna i framtiden ha förkortningar, t ex R = Repeater, L = simplexlänk, S = svxlinknod, E = echolinknod? Kom med synpunkter!
 
 ## 2023-03-25 (SM0RGM)
 
