@@ -1,7 +1,7 @@
 
 # Changelog
 
-## 2023-04-02 (SM0RGM)
+## 2023-04-04 (SM0RGM)
 
 * Samtliga A/D och D/A kanaler har fått som har CTCSS ENCODE har fått CTCSS DECODE, d v s tone squelch för att underlätta vid scanning.
 * Repeatrar ansluta till svxlink märkta med "S" i kanalnamnet
@@ -104,7 +104,7 @@
         * +Hjo SVX 145.2375 FM
         * +Hajom SVX 145.4000 FM
         * +Istorp SVX 145.2875 FM
-        * Uddevalla 1 145.6375 FM/DMR bytt till Udddevalla 1 SVX 145.7375 FM/DMR
+        * Uddevalla 1 145.6375 FM/DMR bytt till Uddevalla 1 SVX 145.7375 FM/DMR
         * -Lidkoping 145.3000 FM
         * -Aleklatten 144.6125 FM
         * -Alingsas 1 144.6125 FM
@@ -152,10 +152,9 @@
     * OZ
         * Hilolerod (typo) korrigerad till Hillerod
 
-* Receive Group Call; 240216 Swedenhubb ändrat till 240216 Sweden-hub
+* Talgrupper; 240216 Swedenhubb ändrat till 240216 Sweden-hub
 
 * TODO:
-    * Scanlist SM0 mer max 50, dela upp i två?
     * LA, OH, OZ är inte uppdaterade
     * Skall benämningarna i framtiden ha förkortningar, t ex R = Repeater, L = simplexlänk, S = svxlinknod, E = echolinknod? Kom med synpunkter!
 
