@@ -48,6 +48,10 @@ Om du vill använda mina filer så behöver du i princip bara ändra DMR-ID i Ra
 
 Förmodligen vill du ändra på fler saker, men det överlåter jag till dig att fixa med själv.
 
+### Uppdatera befintlig kodplugg
+
+Om du bara vill uppdatera din radio med kanaler, scanlistor, roaming och zoner men låta resterande inställning vara som de är kan du, istället för att importera hela N0CALL.LST välja att enbart importera filerna för Channel, ScanList, RoamingChannels, RoamingZone och Zone. (SM0RGM)
+
 73's de SM0RUX Pontus
 
 2020-11-01
