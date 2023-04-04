@@ -4,10 +4,10 @@
 ## 2023-04-02 (SM0RGM)
 
 * Samtliga A/D och D/A kanaler har fått som har CTCSS ENCODE har fått CTCSS DECODE, d v s tone squelch för att underlätta vid scanning.
-* Repeatrar ansluta till svxlink märkta med "SVX"
+* Repeatrar ansluta till svxlink märkta med "S" i kanalnamnet
 * Ändrade, tillagda och borttagna kanaler per zon:
     * Simplex
-        * +Hotspot ("HS") 434.475 MHz, CC1, TS2
+        * +HS DMR 434.475 MHz, CC1, TS2 (avsedd för hotspot)
     * SM0
         * -Botkyrka 1 DMR
         * +Stockholm 1 FM
@@ -115,6 +115,38 @@
         * -Torestorp 144.6625 FM
         * -Vastra Frolunda 144.5375 FM
         * -Orby 434.2250 FM
+    * SM7
+        * +Sjobo 434.9250 DMR
+        * Eslov 1 434.7500 FM bytt till Eslov 1 434.7000 FM
+        * Helsingborg 1 nu SVX
+        * Borgholm nu SVX och subton 79.7 Hz
+        * Morbylanga nu SVX och subton 79.7 Hz
+        * Boda nu SVX och subton 79.7 Hz
+        * Gladsax bytt till Gladsax 2
+        * +Gladsax 1 145.5750 DMR
+        * Kristianstad 1 nu SVX
+        * Blentarp bytt till Blentarp 2
+        * +Blentarp 1 145.6750 FM
+        * Olofstrom korrigerad från 440.0000 till 145.7000 FM
+        * -Gnosjo 145.6875 FM
+        * Vaxjo 1 nu SVX
+        * Huskvarna nu med subton 156.7 Hz
+        * Algutsrum 3 nu SVX
+        * Aneby 1 nu med subton 156.7 Hz
+        * Vastervik 1 nu med subton 77.0 Hz
+        * +Savsjo 434.5250 DMR
+        * Sodra Vi 434.6625 bytt från FM till DMR
+        * Algutsrum 1 nu SVX
+        * Ekenassjon bytt till Ekenassjon 1
+        * +Ekenassjon 2 145.7125 FM/DMR
+        * Emmaboda bytt till Emmaboda 1
+        * +Emmaboda 2 434.7875 DMR
+        * Spjutsbygd 1 nu SVX
+        * +Linneryd SVX 145.4000 FM
+        * +Linderod 145.5875 DMR
+        * +Everod SVX 145.2375 FM
+        * +Farjestaden SVX 145.2375 FM
+        * -Jonkoping 1 145.4000 FM
     * Marin-VHF
         * Innehåller nu samtliga marin-VHF-kanaler
     * OZ
