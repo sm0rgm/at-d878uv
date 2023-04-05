@@ -27,6 +27,7 @@ eller
 * [SM6WKB Peter](https://github.com/Ubsurb)
 * [SM6XGP Tony](https://github.com/SM6XGP)
 * SM7IKJ Ronny
+* SM0SBI Pontus
 
 Har jag glömt någon? Feel free att skapa en Pull Request eller ett issue!
 
