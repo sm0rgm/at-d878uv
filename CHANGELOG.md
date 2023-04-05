@@ -151,6 +151,8 @@
         * Innehåller nu samtliga marin-VHF-kanaler
     * OZ
         * Hilolerod (typo) korrigerad till Hillerod
+    * Jakt
+        * Skapat kanaler, zon och scanlista för Jakt-01 till Jakt-07
 
 * Talgrupper; 240216 Swedenhubb ändrat till 240216 Sweden-hub
 
