@@ -38,6 +38,10 @@ Bland filerna i kodpluggen finner du filen SSA.jpg. Det är SSAs logotype som ka
 * Gå till Optional Setting -> Power on -> Power-on interface -> Custom picture
 * Spara ändringarna till radion
 
+## Digitala kontaktlistan
+
+Den digitala kontaktlistan innehåller call från SM/LA/OH/OZ för att få ner storleken på den så att den med säkerhet får plats i alla modeller av Anytone. Vill du ha en kontaktlista med fler länder kan du skapa ett konto på [radioid.net](https://radioid.net) och generera kontaklistor med exakt de länder du vill ha med.
+
 ## Vad du måste göra!
 
 ### Vilka filer ska du hämta?
