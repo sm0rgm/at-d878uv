@@ -1,7 +1,7 @@
 
 # Changelog
 
-## 2023-04-04 (SM0RGM)
+## 2023-04-06 (SM0RGM)
 
 * Samtliga A/D och D/A kanaler har fått som har CTCSS ENCODE har fått CTCSS DECODE, d v s tone squelch för att underlätta vid scanning.
 * Repeatrar ansluta till svxlink märkta med "S" i kanalnamnet
