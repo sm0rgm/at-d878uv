@@ -4,6 +4,7 @@
 ## 2023-04-07 (SM0RGM)
 
 * Ingen scanlista var förvald för PMR-SRBR, fixat.
+* LPD-kanaler tillagda i PMR-SRBR och zonen namnändrad till PMR-SRBR-LPD. Ingen scanlista är gjord för LPD eftersom de inte får plats i en lista.
 
 ## 2023-04-06 (SM0RGM)
 
