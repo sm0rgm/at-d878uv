@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2023-04-07 (SM0RGM)
+
+* Ingen scanlista var förvald för PMR-SRBR, fixat.
+
 ## 2023-04-06 (SM0RGM)
 
 * Samtliga Analoga, A/D- och D/A-kanaler som har CTCSS ENCODE har fått CTCSS DECODE, d v s tone squelch för att underlätta vid scanning.
@@ -67,8 +71,8 @@
         * Flen 2 nu Flen 3 SVX
         * Finspang nu Finspang 1
         * +Finspang 2 434.8125 DMR
-        * Nykoping ny Nykoping 1
-        * +Nykoping2 434.6375 DMR
+        * Nykoping nu Nykoping 1
+        * +Nykoping 2 434.6375 DMR
         * Stigtomta bytt från FM till DMR
         * Sala nu Sala 1
         * +Sala 2 434.9375 DMR
