@@ -1,11 +1,16 @@
 
 # Changelog
 
+## 2023-04-08 (SM0RGM)
+
+* Ändrat HS DMR default TG till Regional SM0
+* Lagt till importlista för Anytone AT-D868
+
 ## 2023-04-07 (SM0RGM)
 
 * Ingen scanlista var förvald för PMR-SRBR, fixat.
 * LPD-kanaler tillagda i PMR-SRBR och zonen namnändrad till PMR-SRBR-LPD. Ingen scanlista är gjord för LPD eftersom de inte får plats i en lista.
-* Ändrat squelch type till CTCSS/DCS på alla kanler som har subton
+* Ändrat squelch type till CTCSS/DCS på alla kanaler som har subton
 
 ## 2023-04-06 (SM0RGM)
 
