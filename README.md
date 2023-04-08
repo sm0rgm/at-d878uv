@@ -27,6 +27,12 @@ Alla repeatrar i Sverige som kan köra DMR eller FM är inkluderade (källa: [sk
 
 DMR-repeatrarna är också indelade i roaming-zoner för att få roamingen att funka på ett smidigt sätt.
 
+## Fungerar kodpluggen till Anytone AT-D868 också?
+
+Jag har själv ingen 868 att prova med men har laddat ner CPS till 868 och provat att ladda in kodpluggen. 868 saknar ju stöd för bl a roaming så de filerna ger felmeddelande. Därför har jag skapat en LIST-fil som heter 868.LST som kan användas för 868. Det verkar vara mindre skillnader i filformatet men resultatet ser ut att vara en fungerande kodplugg även till 868 (återkoppla gärna med rapport till [mig](mailto:stefan@helander.se) om du lyckas använda filerna till 868).o
+
+När du läst in filerna i CPS:en till 868 bör du stega igenom zonerna och scanlistorna en gång (öppna den första och klicka next) så ordnar A-channel och B-channel till sig och ställer sig på kaneler i zonen (efter import står alla på pi-star). I scanlistorna så rättar alla parametrar till sig eftersom de står på 0 efter import. OBS att det bara är på 868 detta handgrepp behövs.
+
 ## Boot logo
 
 Bland filerna i kodpluggen finner du filen SSA.jpg. Det är SSAs logotype som kan användas som startbild. Gör så här:
