@@ -27,11 +27,13 @@ Alla repeatrar i Sverige som kan köra DMR eller FM är inkluderade (källa: [sk
 
 DMR-repeatrarna är också indelade i roaming-zoner för att få roamingen att funka på ett smidigt sätt.
 
-## Fungerar kodpluggen till Anytone AT-D868 också?
+## Fungerar kodpluggen till Anytone AT-D868UV också?
 
-Jag har själv ingen 868 att prova med men har laddat ner CPS till 868 och provat att ladda in kodpluggen. 868 saknar ju stöd för bl a roaming så de filerna ger felmeddelande. Därför har jag skapat en LIST-fil som heter 868.LST som kan användas för 868. Det verkar vara mindre skillnader i filformatet men resultatet ser ut att vara en fungerande kodplugg även till 868 (återkoppla gärna med rapport till [mig](mailto:stefan@helander.se) om du lyckas använda filerna till 868).o
+Jag har själv ingen 868 att prova med men har laddat ner CPS till 868 och provat att ladda in kodpluggen. 868 saknar ju stöd för bl a roaming så de filerna ger felmeddelande. Därför har jag skapat en LIST-fil som heter 868.LST som kan användas för 868. Det verkar vara mindre skillnader i filformatet men resultatet ser ut att vara en fungerande kodplugg även till 868 (återkoppla gärna med rapport till [mig](mailto:stefan@helander.se) om du lyckas använda filerna till 868).
 
 När du läst in filerna i CPS:en till 868 bör du stega igenom zonerna och scanlistorna en gång (öppna den första och klicka next) så ordnar A-channel och B-channel till sig och ställer sig på kaneler i zonen (efter import står alla på pi-star). I scanlistorna så rättar alla parametrar till sig eftersom de står på 0 efter import. OBS att det bara är på 868 detta handgrepp behövs.
+
+Har du en befintlig kodplugg i din 868 och bara vill uppdatera kanalerna så läser du inte in alla filerna via importlistan utan väljer manuellt vilka filer du vill importera, se nedan om uppdatering.
 
 ## Boot logo
 
@@ -62,7 +64,7 @@ Förmodligen vill du ändra på fler saker, men det överlåter jag till dig att
 
 ### Uppdatera befintlig kodplugg
 
-Om du bara vill uppdatera din radio med kanaler, scanlistor, roaming och zoner men låta resterande inställning vara som de är kan du, istället för att importera hela N0CALL.LST välja att enbart importera filerna för Channel, ScanList, RoamingChannels, RoamingZone och Zone. (SM0RGM)
+Om du bara vill uppdatera din radio med kanaler, scanlistor, roaming och zoner men låta resterande inställning vara som de är kan du, istället för att importera hela N0CALL.LST välja att enbart importera filerna för Channel, ScanList, RoamingChannels, RoamingZone, Zone, TalkGroups och ReceiveGroupCallList. 
 
 73's de SM0RUX Pontus
 
