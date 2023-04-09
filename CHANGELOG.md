@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2023-04-09 (SM0RGM)
+
+* Talgrupp 240721 rättat TG nummer och bytt benämning till SK7RFL
+
 ## 2023-04-08 (SM0RGM)
 
 * Ändrat HS DMR default TG till Regional SM0
