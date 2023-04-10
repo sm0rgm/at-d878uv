@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2023-04-10 (SM0RGM)
+
+* Lagt till TG 98 Radio Test för att kunna ställa mic gain. Kontrollera nivån genom att samtidigt lyssna och se VU-mätaren på TG 98 via https://hose.brandmeister.network.
+
 ## 2023-04-09 (SM0RGM)
 
 * Talgrupp 240721 rättat TG nummer och bytt benämning till SK7RFL
