@@ -5,6 +5,7 @@
 
 * Ändrat APRS SSID till -7 som skall användas för handapparater
 * Lagt in 144.800 MHz på alla 8 frekvensalternativ för APRS för att förhindra att man sänder utanför amatörradiobanden av misstag
+* Analog APRS, ändrat Transmit delay och Prewave time till 600 ms. Annars fungerar inte analog APRS, källa: https://www.reddit.com/r/AnyTone/comments/han0y5/aprs_problems_the_solution_anytone_atd878uv/
 
 ## 2023-04-10 (SM0RGM)
 
