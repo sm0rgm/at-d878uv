@@ -1,6 +1,11 @@
 
 # Changelog
 
+## 2023-06-16 (SM0RGM)
+
+* Ändrat APRS SSID till -7 som skall användas för handapparater
+* Lagt in 144.800 MHz på alla 8 frekvensalternativ för APRS för att förhindra att man sänder utanför amatörradiobanden av misstag
+
 ## 2023-04-10 (SM0RGM)
 
 * Lagt till TG 98 Radio Test för att kunna ställa mic gain. Kontrollera nivån genom att samtidigt lyssna och se VU-mätaren på TG 98 via https://hose.brandmeister.network.
