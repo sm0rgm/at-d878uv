@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2023-06-24 (SM0RGM)
+
+* Lagt till APRS UHF-frekvens (432.500 MHz), ändrat Transmit Delay till 600 ms och Prewave Time till 200 ms, ändrat manuell APRS TX till 60s, auto APRS TX 180s, samt 15s visning av mottagen APRS. APRS TX skall vara FM narrow (12 kHz) enligt IARU region 1 bandplan: https://www.iaru-r1.org/wp-content/uploads/2020/12/VHF-Bandplan.pdf
+
 ## 2023-06-16 (SM0RGM)
 
 * Ändrat APRS SSID till -7 som skall användas för handapparater
