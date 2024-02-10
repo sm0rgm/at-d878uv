@@ -22,6 +22,13 @@
         * -Lycksele 1 QRT
         * -Lycksele 2 QRT
         * -Nordmailing QRT
+    * SM3
+        * +Areskutan 145.725
+        * -Soderhamn 1 145.575
+        * -Soderhamn 3 434.525
+        * -Vemdalen 145.625 QRT
+        * Ostersund 2 nu SVX
+
     * SM7 Ovriga
         * Varnamo 1 CTCSS decode off
         
