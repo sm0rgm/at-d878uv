@@ -15,6 +15,13 @@
         * -Kista 434.6625
         * -Galo 434.6875
         * -Haninge 4 434.5375
+    * SM2
+        * Vannas 2 nu SVX
+        * Storuman 2 nu SVX
+        * Skelleftea 2 nu D+A
+        * -Lycksele 1 QRT
+        * -Lycksele 2 QRT
+        * -Nordmailing QRT
     * SM7 Ovriga
         * Varnamo 1 CTCSS decode off
         
