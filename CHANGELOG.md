@@ -1,6 +1,23 @@
 
 # Changelog
 
+## 2024-02-10 (SM0RGM)
+
+* Ändrade kanaler per zon:
+    * SM0
+        * Ingaro 1 CTCSS decode off
+        * +Sandhamn 434.375 
+        * Kista 3 nu SVX
+        * Stockolm 2 nu SVX
+        * Stockholm Norr nu SVX
+        * Sodertalje 4 434.6870 -> 434.8750
+        * -Skarpnack 144.700
+        * -Kista 434.6625
+        * -Galo 434.6875
+        * -Haninge 4 434.5375
+    * SM7 Ovriga
+        * Varnamo 1 CTCSS decode off
+        
 ## 2023-08-21 (SM0RGM)
 
 * Ändrade kanaler per zon:
