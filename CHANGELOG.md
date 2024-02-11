@@ -11,7 +11,7 @@
         * Stockolm 2 nu SVX
         * Stockholm Norr nu SVX
         * Sodertalje 4 434.6870 -> 434.8750
-        * -Skarpnack 144.700
+        * -Skarpnack 145.700
         * -Kista 434.6625
         * -Galo 434.6875
         * -Haninge 4 434.5375
@@ -28,7 +28,13 @@
         * -Soderhamn 3 434.525
         * -Vemdalen 145.625 QRT
         * Ostersund 2 nu SVX
-
+    * SM4
+        * Orsa 2 nu SVX 
+        * Alvdalen S 145.250 -> 434.500
+        * +Orsa 3 S 145.275
+        * +Smedjebacken 434.6375
+        * -Hagfors 1 145.225
+        * -Leksand 1 145.5875 DMR
     * SM7 Ovriga
         * Varnamo 1 CTCSS decode off
         
