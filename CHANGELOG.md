@@ -35,6 +35,18 @@
         * +Smedjebacken 434.6375
         * -Hagfors 1 145.225
         * -Leksand 1 145.5875 DMR
+    * SM5
+        * Kisa nu CTCSS 82.5 Hz
+        * Eskilstuna 3 nu SVX
+        * Uppsala 1 nu SVX -DMR
+        * Eskilstuna 2 nu SVX
+        * Atvidaberg nu SVX
+        * Norrkoping 1 nu SVX
+        * +Norrkoping 5 434.6625 FM
+        * Flen 2 145.7625 +CTCSS 103.5
+        * -Sala 2 434.9375 QRT
+        * -Uppsala 7 434.7500 QRT
+        * -Vasteras 2 434.7000 QRT
     * SM7 Ovriga
         * Varnamo 1 CTCSS decode off
         
