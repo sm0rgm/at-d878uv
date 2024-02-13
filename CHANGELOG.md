@@ -4,6 +4,9 @@
 ## 2024-02-10 (SM0RGM)
 
 * Ändrade kanaler per zon:
+    * Simplex
+        * +APRS 1 144.800 FM
+        * +APRS 2 432.500 FM
     * SM0
         * Ingaro 1 CTCSS decode off
         * +Sandhamn 434.375 
@@ -47,6 +50,15 @@
         * -Sala 2 434.9375 QRT
         * -Uppsala 7 434.7500 QRT
         * -Vasteras 2 434.7000 QRT
+    * SM6 Gbg
+        * +Molndal 1 145.700 FM
+        * +Molndal 2 434.700 FM
+    * SM6 Ovriga
+        * Skovde 1 145.6875 FM korrigerat felaktig tx frekvens
+        * Uddevsalla 1 S nu 145.7375 DMR FM
+        * +Orby S 145.2375 MHz FM SVX
+        * +Karlsborg 145.7625 FM
+        * +Dingle 434.8875 DMR
     * SM7 Ovriga
         * Varnamo 1 CTCSS decode off
         
