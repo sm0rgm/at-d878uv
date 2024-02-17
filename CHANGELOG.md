@@ -1,12 +1,14 @@
 
 # Changelog
 
-## 2024-02-10 (SM0RGM)
+## 2024-02-17 (SM0RGM)
 
 * Ändrade kanaler per zon:
     * Simplex
-        * +APRS 1 144.800 FM
-        * +APRS 2 432.500 FM
+        * +APRS 1 144.800 MHz FM
+        * +APRS 2 432.500 MHz FM
+        * +APRS US 144.390 MHz FM
+        * +145.450 MHz FM
     * SM0
         * Ingaro 1 CTCSS decode off
         * +Sandhamn 434.375 
@@ -61,6 +63,16 @@
         * +Dingle 434.8875 DMR
     * SM7 Ovriga
         * Varnamo 1 CTCSS decode off
+        * -Morrum 434.825 FM QRT
+        * -Farjestaden S 145.2375 FM QRT
+        * Ljungby S +SVX +CTCSS 94.8 Hz
+        * Hoor -CTCSS 79.7 Hz
+        * +Moheda S 145.6375 MHz SVX
+        * +Malmo 1 434.6125 MHz DMR
+        * Malmo -> Malmo 2 434.7750 MHz DMR
+        * Borgholm S -> Borgholm 1 S 145.6625 MHz FM
+        * +Borgholm 2 S 434.7750 MHz FM SVX
+        * -Spjutsbygd 2 434.8750 MHz FM
         
 ## 2023-08-21 (SM0RGM)
 
