@@ -2,7 +2,7 @@
 
 ## Copyright
 
-© 2019-2023 by SM0RUX Pontus Falk
+© 2019-2024 by SM0RUX Pontus Falk
 
 Filerna är tillgängliga under [GPLv3](https://github.com/sm0rux/at-d878uv/blob/master/LICENSE).
 
@@ -10,9 +10,9 @@ Filerna är tillgängliga under [GPLv3](https://github.com/sm0rux/at-d878uv/blob
 
 På grund av att Pontus SM0RUX av personliga skäl inte har möjlighet att uppdatera kodpluggen så har han och jag kommit överens om att jag övertar och uppdaterar kodpluggen. Kodpluggen är och förblir därmed "SM0RUX kodplugg" men underhållen av mig. Jag har skapat en fork av kodpluggarna och publicerat under mitt eget Github-konto och ändrat kontaktytorna i dessa filer, så kommentarer, ändringar och liknande lägger du som en issue på min Github eller kontaktar mig.
 
-Även om man försöker vara minutiöst noggrann så kan det smyga sig in fel. Kodpluggen innehåller i denna version 538 kanaler. Så hittar du något fel eller har andra synpunkter, lägga gärna en issue eller skicka ett mail. 
+Även om man försöker vara minutiöst noggrann så kan det smyga sig in fel. Kodpluggen innehåller i denna version runt 600 kanaler. Så hittar du något fel eller har andra synpunkter, lägga gärna en issue eller skicka ett mail. 
 
-Nacka mars 2023
+Nacka februari 2024
 SM0RGM Stefan Helander
 
 ## Syfte
