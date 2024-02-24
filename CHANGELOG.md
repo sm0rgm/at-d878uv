@@ -1,6 +1,12 @@
 
 # Changelog
 
+## 20214-02-24 (SM0RGM)
+
+* Ändrade kanaler per zon:
+    * PMR-SRBR
+        * +156.000 MHz FM
+
 ## 2024-02-17 (SM0RGM)
 
 * Ändrade kanaler per zon:
@@ -73,6 +79,7 @@
         * Borgholm S -> Borgholm 1 S 145.6625 MHz FM
         * +Borgholm 2 S 434.7750 MHz FM SVX
         * -Spjutsbygd 2 434.8750 MHz FM
+* APRS-frekvens 1-4 144.800 MHz och 5-8 432.500 MHz
         
 ## 2023-08-21 (SM0RGM)
 
