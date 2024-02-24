@@ -29,6 +29,7 @@ eller
 * SM7IKJ Ronny
 * [SM6VFJ Magnus](https://github.com/sm6vfj)
 * SM0SBI Pontus
+* SM0IKR Göran
 
 Har jag glömt någon? Feel free att skapa en Pull Request eller ett issue!
 
