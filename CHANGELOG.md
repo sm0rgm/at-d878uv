@@ -1,6 +1,14 @@
 
 # Changelog
 
+## 2024-03-23 (SM0RGM)
+
+* NOCALL.rdt fixad med avseende på roamingbug.
+* Ändrade kanaler per zon:
+    * SM0
+        * -Hagsatra
+        * Farsta namnbytt till Hogdalen och sorterad rätt i listan
+
 ## 2024-03-19 (SM0RGM)
 
 * N0CALL.rdt komplett kodplugg för CPS/FW 3.03.
