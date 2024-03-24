@@ -60,7 +60,8 @@ Jag rekommenderar att du hämtar filerna som jag har packat ihop i en [release](
 
 CSV-filerna kan du använda om du har en befintlig radio eller kodplugg som du vill uppdatera med kanaler, zoner, scalistor etc. 
 
-Om du snabbt och enkelt vill starta en ny kodplugg eller koda upp en ny radio så finns det en färdig fil med alla inställningar gjorda som heter N0CALL.rdt. Starta CPS-programmet och välj Öppna fil och välj N0CALL.rdt. Gå till fliken APRS och ändra Your call från N0CALL till ditt call. Gå sedan til Digital -> Radio ID List och ändra Radio ID och Name till ditt DMR ID respektive namn. Sedan är det bara att skjuta i kodpluggen i radion (välj COM-port och sedan Write to radio).
+Om du snabbt och enkelt vill starta en ny kodplugg eller koda upp en ny radio så finns det en färdig fil med alla inställningar gjorda som heter N0CALL.rdt. Filen N0CALL.rdt är sparad i MODE 0003 Amateur EU, d v s så som radion kommer "out of the box". Har du öppnat TX genom att byta mode kan denna RDT-fil inte användas. 
+Starta CPS-programmet och välj Öppna fil och välj N0CALL.rdt. Gå till fliken APRS och ändra Your call från N0CALL till ditt call. Gå sedan til Digital -> Radio ID List och ändra Radio ID och Name till ditt DMR ID respektive namn. Sedan är det bara att skjuta i kodpluggen i radion (välj COM-port och sedan Write to radio).
 
 OBS! Den kompletta rdt-filen är bara kompatibel med den version av CPS den är gjord med eller senare versioner. Har du en tidigare version av CPS och firmware så behöver du antingen uppdatera radion först eller använda CSV-filerna. Vilken version av CPS/Firmware rdt-filen är gjord för framgår av filen CHANGELOG.md.
 
