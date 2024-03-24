@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2024-03-24 (SM0RGM)
+
+* N0CALL.rdt nu sparad för MODE 0003 Amateur EU
+
 ## 2024-03-23 (SM0RGM)
 
 * NOCALL.rdt fixad med avseende på roamingbug.
