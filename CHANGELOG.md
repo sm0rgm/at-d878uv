@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2024-03-26 (SM0RGM)
+
+* Optional settings -> Ranging interval(s) ändrat från 5s till 60s
+
 ## 2024-03-24 (SM0RGM)
 
 * N0CALL.rdt nu sparad för MODE 0003 Amateur EU
