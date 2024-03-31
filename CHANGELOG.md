@@ -1,6 +1,13 @@
 
 # Changelog
 
+## 2024-03-31 (SM0RGM
+
+* Ändrade kanaler per zon:
+    * Marin VHF
+        * +Marin-VHF 75 156.775 MHz
+        * +Marin-VHF 76 156.825 MHz
+    
 ## 2024-03-26 (SM0RGM)
 
 * Optional settings -> Ranging interval(s) ändrat från 5s till 60s
