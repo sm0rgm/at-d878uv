@@ -7,6 +7,10 @@
     * Marin VHF
         * +Marin-VHF 75 156.775 MHz
         * +Marin-VHF 76 156.825 MHz
+ * Kanalnummer ändrade:
+    * PMR-SRBR-LPD startar nu på kanal nr 501
+    * Jakt startar nu på kanal 601
+    * Marin-VHF startar nu på kanal 700, andra och tredjesiffran i kanalnumret motsvarar den marina kanalplanens kanalnummer. T ex VHF kanal 16 ligger på kanalplats 716.
     
 ## 2024-03-26 (SM0RGM)
 
