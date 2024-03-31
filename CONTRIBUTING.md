@@ -30,6 +30,7 @@ eller
 * [SM6VFJ Magnus](https://github.com/sm6vfj)
 * SM0SBI Pontus
 * SM0IKR Göran
+* SA0BCC Joakim
 
 Har jag glömt någon? Feel free att skapa en Pull Request eller ett issue!
 
