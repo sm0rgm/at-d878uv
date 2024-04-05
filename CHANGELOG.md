@@ -1,7 +1,12 @@
 
 # Changelog
 
-## 2024-03-31 (SM0RGM
+## 2024-04-05 (SM0RGM)
+
+* Roamingchannel Bruzaholm -> Bzhlm/Hbg 2 samt Helsingborg 2 borttagen då dessa har samma frekvens och CC vilket innebär att roaming endast visar första träff (Bruzaholm).
+* Roamingchannel Jonkoping 3 -> Jkp 3/O-ljunga då de har samma frekvens och CC samt Orkelljunga borttagen
+
+## 2024-03-31 (SM0RGM)
 
 * Ändrade kanaler per zon:
     * Marin VHF
