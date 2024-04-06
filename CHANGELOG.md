@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2024-05-06 (SM0RGM)
+
+* Brottby 2 434.800 FM 77 Hz subton
+
 ## 2024-04-05 (SM0RGM)
 
 * Roamingchannel Bruzaholm -> Bzhlm/Hbg 2 samt Helsingborg 2 borttagen då dessa har samma frekvens och CC vilket innebär att roaming endast visar första träff (Bruzaholm).
@@ -15,7 +19,7 @@
  * Kanalnummer ändrade:
     * PMR-SRBR-LPD startar nu på kanal nr 501
     * Jakt startar nu på kanal 601
-    * Marin-VHF startar nu på kanal 700, andra och tredjesiffran i kanalnumret motsvarar den marina kanalplanens kanalnummer. T ex VHF kanal 16 ligger på kanalplats 716.
+    * Marin-VHF startar nu på kanal 701, andra och tredjesiffran i kanalnumret motsvarar den marina kanalplanens kanalnummer. T ex VHF kanal 16 ligger på kanalplats 716.
     
 ## 2024-03-26 (SM0RGM)
 
