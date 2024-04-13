@@ -1,7 +1,27 @@
 
 # Changelog
 
-## 2024-05-06 (SM0RGM)
+## 2024-04-13 (SM0RGM)
+
+* Kanallistorna omnumrerade för att underlätta bl a för synsvaga. Första siffran i kanalnumrets hundrasiffra motsvarar nu distriktssiffran:
+    * 001-099: SM0
+    * 100-199: SM1
+    * 200-299: SM2
+    * 300-399: SM3
+    * 400-499: SM4
+    * 500-599: SM5
+    * 600-699: SM6
+    * 700-799: SM7
+    * 800-899: Norden d v s LA, OH, OZ mm
+    * 900-999: Simplex
+    * 1001-1016: PMR kanal 1-16
+    * 1020: 156.000 MHz
+    * 1021-1028: SRBR kanal 1-8
+    * 1101-1169: LPD kanal 1-69
+    * 1201-1207: Jakt kanal 1-7
+    * 1501-1599: Marin VHF kanal 1-88, F1, F2, F3, L1, L2
+
+## 2024-04-06 (SM0RGM)
 
 * Brottby 2 434.800 FM 77 Hz subton
 
