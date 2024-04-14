@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2024-04-14 (SM0RGM)
+
+* Roaming Channel Stockholm City borttagen ur Roaming Zone SM0 då repeatern saknar anslutning till Brandmeister. Om detta ändras är jag tacksam om sysop/admins för SK0RYG meddelar det så lägger jag in den igen.
+
 ## 2024-04-13 (SM0RGM)
 
 * Kanallistorna omnumrerade för att underlätta bl a för synsvaga. Första siffran i kanalnumrets hundrasiffra motsvarar nu distriktssiffran:
