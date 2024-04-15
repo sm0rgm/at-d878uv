@@ -1,6 +1,11 @@
 
 # Changelog
 
+## 2024-04-15 (SM0RGM)
+
+* PMR1-16 och SRBR1-8 ändrade från Analog till A+D tx A för att kunna ta emot DMR.
+* Ny Zone och ScanList "Diverse" för olika kanaler man vill lägga till som egna scankanaler. Egna kanaler läggs lämpligen från kanal 3900 och uppåt så blir det lätt att kopiera över dem när man uppdaterar till ny kodplug.
+
 ## 2024-04-14 (SM0RGM)
 
 * Roaming Channel Stockholm City borttagen ur Roaming Zone SM0 då repeatern saknar anslutning till Brandmeister. Om detta ändras är jag tacksam om sysop/admins för SK0RYG meddelar det så lägger jag in den igen.
@@ -17,13 +22,13 @@
     * 600-699: SM6
     * 700-799: SM7
     * 800-899: Norden d v s LA, OH, OZ mm
-    * 900-999: Simplex
-    * 1001-1016: PMR kanal 1-16
-    * 1020: 156.000 MHz
-    * 1021-1028: SRBR kanal 1-8
-    * 1101-1169: LPD kanal 1-69
-    * 1201-1207: Jakt kanal 1-7
-    * 1501-1599: Marin VHF kanal 1-88, F1, F2, F3, L1, L2
+    * 900-919: Simplex
+    * 921-936: PMR kanal 1-16
+    * 940: 156.000 MHz
+    * 941-948: SRBR kanal 1-8
+    * 951-1019: LPD kanal 1-69
+    * 1021-1027: Jakt kanal 1-7
+    * 1101-1199: Marin VHF kanal 1-88, F1, F2, F3, L1, L2
 
 ## 2024-04-06 (SM0RGM)
 
