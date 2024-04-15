@@ -5,6 +5,7 @@
 
 * PMR1-16 och SRBR1-8 ändrade från Analog till A+D tx A för att kunna ta emot DMR.
 * Ny Zone och ScanList "Diverse" för olika kanaler man vill lägga till som egna scankanaler. Egna kanaler läggs lämpligen från kanal 3900 och uppåt så blir det lätt att kopiera över dem när man uppdaterar till ny kodplug.
+* RoamingChannel Aneby 3 bytt namn till Aneby 3/Sjobo och Sjobo borttagen (samma frekvens och CC)
 
 ## 2024-04-14 (SM0RGM)
 
