@@ -1,6 +1,11 @@
 
 # Changelog
 
+## 2024-04-29 (SM0RGM)
+
+* Blentarp 1 ändrat scanlist till SM7 Skane
+* 145.500 MHz tillagd i scanlistorna för SM0-SM7
+
 ## 2024-04-15 (SM0RGM)
 
 * PMR1-16 och SRBR1-8 ändrade från Analog till A+D tx A för att kunna ta emot DMR.
