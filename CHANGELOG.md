@@ -1,6 +1,13 @@
 
 # Changelog
 
+## 2024-10-04 (SM0RGM)
+
+* RDT-filen uppdaterad för CPS version 3.04
+* Ändrade kanaler per zon:
+    * SM0
+        * +Haninge 4 434.6375 MHz SK0NN-2
+
 ## 2024-04-29 (SM0RGM)
 
 * Blentarp 1 ändrat scanlist till SM7 Skane
