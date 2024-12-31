@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2024-12-31 (SM0RGM)
+
+* RDT-filen uppdaterad för CPS och fw version 3.05. Obs! I RDT-filen är det ytterligare ett ställe (Master Id) där du måste lägga in ditt DMR-ID, callsign och namn innan du skjuter i filen i din radio.
+
 ## 2024-10-04 (SM0RGM)
 
 * RDT-filen uppdaterad för CPS version 3.04
