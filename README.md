@@ -17,7 +17,7 @@ SM0RGM Stefan Helander
 
 ## Syfte
 
-Det här är min kodplugg till min Anytone AT-D878UV. Den är testad med AT-D878UVII Plus, d v s den senaste modellen av Anytone AT-878UV men bör fungera med tidigare modeller också. Jag använder CPS version 3.03 och firmware 3.03. Huvudsyftet med publiceringen av filerna här på GitHub är att förenkla för mig själv när det gäller uppdateringar. Jag har inget emot att dela med mig av filerna så att andra kan nyttja dem under förutsättning att de som återanvänder mina filer följer licensvillkoren i [GPLv3](https://github.com/sm0rux/at-d878uv/blob/master/LICENSE).
+Det här är min kodplugg till min Anytone AT-D878UV. Den är testad med AT-D878UVII Plus, d v s den senaste modellen av Anytone AT-878UV men bör fungera med tidigare modeller också. Jag använder CPS version 3.05 och firmware 3.05. Huvudsyftet med publiceringen av filerna här på GitHub är att förenkla för mig själv när det gäller uppdateringar. Jag har inget emot att dela med mig av filerna så att andra kan nyttja dem under förutsättning att de som återanvänder mina filer följer licensvillkoren i [GPLv3](https://github.com/sm0rux/at-d878uv/blob/master/LICENSE).
 
 Om du vill bidra med något så är du naturligtvis välkommen att göra så antingen genom att skapa en Pull Request (kräver en del kunskap om hur GitHub funkar) eller genom att skapa ett [issue](https://github.com/sm0rgm/at-d878uv/issues).
 
@@ -75,4 +75,4 @@ Om du bara vill uppdatera din radio med kanaler, scanlistor, roaming och zoner m
 
 73's de SM0RUX Pontus / SM0RGM Stefan
 
-2024-02-17
+2024-12-31
