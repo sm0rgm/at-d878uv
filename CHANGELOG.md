@@ -1,6 +1,11 @@
 
 # Changelog
 
+## 2025-02-01 (SM0RGM)
+
+* RDT-filen uppdaterad för CPS och fw version 3.06.
+* Digital Contact list uppdaterad. Denna innehåller DMR-id för Norden. Vill du ha ett annat urval behöver du själv generera en CSV-fil hos radioid.net.
+
 ## 2024-12-31 (SM0RGM)
 
 * RDT-filen uppdaterad för CPS och fw version 3.05. Obs! I RDT-filen är det ytterligare ett ställe (Master Id) där du måste lägga in ditt DMR-ID, callsign och namn innan du skjuter i filen i din radio.
