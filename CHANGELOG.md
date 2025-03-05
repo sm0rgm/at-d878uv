@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2025-03-05 (SM0RGM)
+
+* DigitalContactList uppdaterad och tvättad avseende internationella tecken (bl a åäö)
+
 ## 2025-02-01 (SM0RGM)
 
 * RDT-filen uppdaterad för CPS och fw version 3.06.
