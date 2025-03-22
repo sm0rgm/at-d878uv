@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2025-03-22 (SM0RGM)
+
+* Bytt namn på några repeatrar i OZ, LA och OH som har dubbelnamn för anpassning till namnstandard.
+
 ## 2025-03-05 (SM0RGM)
 
 * DigitalContactList uppdaterad och tvättad avseende internationella tecken (bl a åäö)
