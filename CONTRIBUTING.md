@@ -32,6 +32,8 @@ eller
 * SM0IKR Göran
 * SA0BCC Joakim
 * SA0BUX Lars
+* SM7GSA Kurt
+* SA0JLA Jonas
 
 Har jag glömt någon? Feel free att skapa en Pull Request eller ett issue!
 
