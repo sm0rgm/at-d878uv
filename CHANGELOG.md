@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2025-05-04 (SM0RGM)
+
+* Uppdaterat filer för CPS version 3.07.
+
 ## 2025-03-22 (SM0RGM)
 
 * Bytt namn på några repeatrar i OZ, LA och OH som har dubbelnamn för anpassning till namnstandard.
