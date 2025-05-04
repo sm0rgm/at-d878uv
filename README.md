@@ -17,7 +17,7 @@ SM0RGM Stefan Helander
 
 ## Syfte
 
-Det här är min kodplugg till min Anytone AT-D878UV. Den är testad med AT-D878UVII Plus, d v s den senaste modellen av Anytone AT-878UV men bör fungera med tidigare modeller också. Jag använder CPS version 3.05 och firmware 3.05. Huvudsyftet med publiceringen av filerna här på GitHub är att förenkla för mig själv när det gäller uppdateringar. Jag har inget emot att dela med mig av filerna så att andra kan nyttja dem under förutsättning att de som återanvänder mina filer följer licensvillkoren i [GPLv3](https://github.com/sm0rux/at-d878uv/blob/master/LICENSE).
+Det här är min kodplugg till min Anytone AT-D878UV. Den är testad med AT-D878UVII Plus, d v s den senaste modellen av Anytone AT-878UV men bör fungera med tidigare modeller också. Jag använder CPS version 3.07 och firmware 3.07. Huvudsyftet med publiceringen av filerna här på GitHub är att förenkla för mig själv när det gäller uppdateringar. Jag har inget emot att dela med mig av filerna så att andra kan nyttja dem under förutsättning att de som återanvänder mina filer följer licensvillkoren i [GPLv3](https://github.com/sm0rux/at-d878uv/blob/master/LICENSE).
 
 Om du vill bidra med något så är du naturligtvis välkommen att göra så antingen genom att skapa en Pull Request (kräver en del kunskap om hur GitHub funkar) eller genom att skapa ett [issue](https://github.com/sm0rgm/at-d878uv/issues).
 
@@ -49,6 +49,13 @@ Bland filerna i kodpluggen finner du filen SSA.jpg. Det är SSAs logotype som ka
 ## Digitala kontaktlistan
 
 Den digitala kontaktlistan innehåller call från SM/LA/OH/OZ för att få ner storleken på den så att den med säkerhet får plats i alla modeller av Anytone. Vill du ha en kontaktlista med fler länder kan du skapa ett konto på [radioid.net](https://radioid.net) och generera kontaklistor med exakt de länder du vill ha med.
+
+## APRS ISS
+
+Från och med 2025-05-04 finns en simplexkanal med namnet "APRS ISS" för mottagning av APRS från ISS. APRS-frekvens nr 6 för sändning är satt till 145.825 MHz för att kunna sända APRS via ISS.
+
+Obs! För att sända APRS via ISS måste du ändra digipath till:
+ARISS,WIDE2-1
 
 ## Vad du måste göra!
 
