@@ -50,12 +50,28 @@ Bland filerna i kodpluggen finner du filen SSA.jpg. Det är SSAs logotype som ka
 
 Den digitala kontaktlistan innehåller call från SM/LA/OH/OZ för att få ner storleken på den så att den med säkerhet får plats i alla modeller av Anytone. Vill du ha en kontaktlista med fler länder kan du skapa ett konto på [radioid.net](https://radioid.net) och generera kontaklistor med exakt de länder du vill ha med.
 
+## Suffix i repeaternamn
+
+För att indikera typ av repeater eller vilket nätverk den är ansluten mot finns numera en eller flera bokstäver som suffix till repeaterns namn. Om repeatern är ansluten till Brandmeister för DMR eller är en lokal FM-repeater utan anslutning till reflektornätverk finns ingen bokstav angiven. Bokstäverna betyder:
+
+L = Link (simplex)
+A = AllstarLink
+S = SVXlink
+E = EchoLink
+H = Hotspot (DMR)
+F = FreeDMR / FinDMR
++ = DMR+ / DMR Plus
+I = IRLP / ircDDB
+P = HAMphone
+
 ## APRS ISS
 
-Från och med 2025-05-04 finns en simplexkanal med namnet "APRS ISS" för mottagning av APRS från ISS. APRS-frekvens nr 6 för sändning är satt till 145.825 MHz för att kunna sända APRS via ISS.
+Från och med 2025-05-04 finns en simplexkanal med namnet "APRS ISS" för mottagning av APRS från ISS. APRS-frekvens nr 8 för sändning är satt till 145.825 MHz för att kunna sända APRS via ISS.
 
 Obs! För att sända APRS via ISS måste du ändra digipath till:
 ARISS,WIDE2-1
+
+Se denna [artikel av K7KEZ](https://k7kez.com/aprs-settings-for-the-iss-international-space-station/) om hur man kör APRS via ISS.
 
 ## Vad du måste göra!
 
@@ -80,6 +96,10 @@ Förmodligen vill du ändra på fler saker, men det överlåter jag till dig att
 
 Om du bara vill uppdatera din radio med kanaler, scanlistor, roaming och zoner men låta resterande inställning vara som de är kan du, istället för att importera hela N0CALL.LST välja att enbart importera filerna för Channel, ScanList, RoamingChannels, RoamingZone, Zone, TalkGroups och ReceiveGroupCallList. 
 
-73's de SM0RUX Pontus / SM0RGM Stefan
+## SM0RUX/Pontus silent key
 
-2024-12-31
+Den 9 mars 2025 gick SM0RUX/Pontus silent key efter några års kamp mot cancern. Kodpluggen är och förblir "SM0RUX kodplugg" men underhålls fortsatt av mig, SM0RGM/Stefan. Kodpluggen är gratis att använda men vill du ge ett bidrag så tänk gärna på Cancerfonden tel. 010-199 10 10.
+
+73's de SM0RGM Stefan
+
+2025-05-04
