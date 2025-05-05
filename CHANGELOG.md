@@ -1,13 +1,42 @@
 
 # Changelog
 
+## 2025-05-xx (SM0RGM)
+
+* Större uppdatering av kodpluggen som nu innehåller över 800 kanaler och zoner för SM, LA, OH, OZ, TK, JW, PA och DL (nordväst). I en sådan stor uppdatering kan det smyga sig in fel så felrapporter och förslag mottas tacksamt.
+* En del repeaternamn har ändrats för att överensstämma med ortsnamnen i SK6BA:s repeaterkarta, t ex har repeatrar i Göteborg bytt namn till Guldheden och två av repeatrarna i Helsingborg heter numera Soderasen.
+* P g a namnhamteringen mot SK6BA har repeatrar som kräver mellanslag i namnet istället ett understrykningstecken. T ex heter Upplands Väsby "Upplands_Vasby".
+* Kanaler i LA och OZ ligger i en enda zon vilket innebär att scanningslistorna innehåller för många kanaler. Hjälp med att dela in repeatrarna i dessa länder i zoner, t ex distriktsvis mottages tacksamt.
+* Kanalnamnet har en eller flera bokstäver som suffix vilket anger vilken typ av funktioner som finns (om inget anges är repeatern antingen DMR via Brandmeister eller lokal FM-repeater utan reflektorkoppling):
+  L = Link (simplex)
+  A = AllstarLink
+  S = SVXlink
+  E = EchoLink
+  H = Hotspot (DMR)
+  F = FreeDMR / FinDMR
+  + = DMR+ / DMR Plus
+  I = IRLP / ircDDB
+  P = HAMphone
+
 ## 2025-05-04 (SM0RGM)
 
 * Uppdaterat filer för CPS version 3.07.
+* APRS-frekvens nr 8 ändrad till 145.825 MHz för APRS via ISS. 
+  Obs! För att sända APRS via ISS måste du ändra digipath till:
+  ARISS,WIDE2-1
+  Se denna [artikel av K7KEZ](https://k7kez.com/aprs-settings-for-the-iss-international-space-station/) om hur man kör APRS via ISS.
+
+* Ändrade kanaler per zon:
+    * Simplex
+        * +APRS ISS 145.825 MHz FM
 
 ## 2025-03-22 (SM0RGM)
 
 * Bytt namn på några repeatrar i OZ, LA och OH som har dubbelnamn för anpassning till namnstandard.
+
+## 2025-03-09 (SM0RGM)
+
+SM0RUX/Pontus är silent key. Tänk gärna på Cancerfonden tel. 010-199 10 10
 
 ## 2025-03-05 (SM0RGM)
 
