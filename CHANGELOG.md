@@ -14,7 +14,7 @@
   E = EchoLink  
   H = Hotspot (DMR)  
   F = FreeDMR / FinDMR  
-  + = DMR+ / DMR Plus  
+  \+ = DMR+ / DMR Plus  
   I = IRLP / ircDDB  
   P = HAMphone
 
