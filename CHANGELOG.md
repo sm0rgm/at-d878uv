@@ -1,21 +1,21 @@
 
 # Changelog
 
-## 2025-05-xx (SM0RGM)
+## 2025-05-12 (SM0RGM)
 
 * Större uppdatering av kodpluggen som nu innehåller över 800 kanaler och zoner för SM, LA, OH, OZ, TK, JW, PA och DL (nordväst). I en sådan stor uppdatering kan det smyga sig in fel så felrapporter och förslag mottas tacksamt.
 * En del repeaternamn har ändrats för att överensstämma med ortsnamnen i SK6BA:s repeaterkarta, t ex har repeatrar i Göteborg bytt namn till Guldheden och två av repeatrarna i Helsingborg heter numera Soderasen.
-* P g a namnhamteringen mot SK6BA har repeatrar som kräver mellanslag i namnet istället ett understrykningstecken. T ex heter Upplands Väsby "Upplands_Vasby".
+* P g a namnhamteringen mot SK6BA har repeatrar som kräver mellanslag i namnet istället ett understrykningstecken. T ex heter Upplands Väsby "Upplands\_Vasby".
 * Kanaler i LA och OZ ligger i en enda zon vilket innebär att scanningslistorna innehåller för många kanaler. Hjälp med att dela in repeatrarna i dessa länder i zoner, t ex distriktsvis mottages tacksamt.
-* Kanalnamnet har en eller flera bokstäver som suffix vilket anger vilken typ av funktioner som finns (om inget anges är repeatern antingen DMR via Brandmeister eller lokal FM-repeater utan reflektorkoppling):
-  L = Link (simplex)
-  A = AllstarLink
-  S = SVXlink
-  E = EchoLink
-  H = Hotspot (DMR)
-  F = FreeDMR / FinDMR
-  + = DMR+ / DMR Plus
-  I = IRLP / ircDDB
+* Kanalnamnet har en eller flera bokstäver som suffix vilket anger vilken typ av funktioner som finns (om inget anges är repeatern antingen DMR via Brandmeister eller lokal FM-repeater utan reflektorkoppling):  
+  L = Link (simplex)  
+  A = AllstarLink  
+  S = SVXlink  
+  E = EchoLink  
+  H = Hotspot (DMR)  
+  F = FreeDMR / FinDMR  
+  + = DMR+ / DMR Plus  
+  I = IRLP / ircDDB  
   P = HAMphone
 
 ## 2025-05-04 (SM0RGM)
@@ -80,14 +80,14 @@
         * + Sunnhordland 145.6250 MHz FM
         * + Kirkenes 145.7500 MHz FM
         * + Kristianstad 4 145.6000 MHz FM / C4FM
-        * Mo_i_Rana ändrad till Mo_i_Rana 1
-        * + Mo_i_Rana 2 E 145.6750 MHz FM
+        * Mo\_i\_Rana ändrad till Mo\_i\_Rana 1
+        * + Mo\_i\_Rana 2 E 145.6750 MHz FM
         * + Vesteralen 145.6000 MHz FM / C4FM
         * Tromso ändrad till Tromso 1
         * + Tromso 2 434.7500 MHz FM
-        * + S._Sunnmore E 145.7250 MHz FM
+        * + S.\_Sunnmore E 145.7250 MHz FM
         * + Tromso 3 145.6250 MHz FM
-        * + Mo_i_Rana 3 LI 145.3375 MHz FM
+        * + Mo\_i\_Rana 3 LI 145.3375 MHz FM
         * Mosjoen ändrad till Mosjoen 1
         * + Mosjoen 2 LI 145.2875 MHz FM
         * + Fosen 434.6250 MHz FM
@@ -482,7 +482,7 @@
         * + Farjestaden LSE 145.2375 MHz FM
         * + Borgholm 3 LS 145.3125 MHz FM
         * + Jonkoping 4 S 145.7000 MHz FM
-        * + Sodra_Vi 2 LAE 433.5000 MHz FM
+        * + Sodra\_Vi 2 LAE 433.5000 MHz FM
         * + Hallandsas 2 S 434.6625 MHz FM
         * + Lonsboda 2 434.9500 MHz DMR / D-Star
     * SM7 Ovriga
@@ -501,7 +501,7 @@
         * Linderod ändrad till Linderod I
         * Moheda S ändrad till Moheda SE
         * Borgholm 2 S ändrad till Borgholm 2 SE
-        * Sodra_Vi ändrad till Sodra_Vi 1
+        * Sodra\_Vi ändrad till Sodra\_Vi 1
         * - Aneby 1 145.77500 MHz 
         * - Aneby 2 434.72500 MHz 
         * - Aneby 3 434.92500 MHz 
@@ -528,7 +528,7 @@
         * + Reykjavik 2 145.6500 MHz FM
         * + Akureyri 145.6250 MHz FM
         * + Burfell 145.7000 MHz FM
-
+  
 codeplugadmin 1.0 (2025-04-28)
 
 ## 2025-03-22 (SM0RGM)
@@ -728,7 +728,7 @@ SM0RUX/Pontus är silent key. Tänk gärna på Cancerfonden tel. 010-199 10 10
 
 * Ändrat APRS SSID till -7 som skall användas för handapparater
 * Lagt in 144.800 MHz på alla 8 frekvensalternativ för APRS för att förhindra att man sänder utanför amatörradiobanden av misstag
-* Analog APRS, ändrat Transmit delay och Prewave time till 600 ms. Annars fungerar inte analog APRS, källa: https://www.reddit.com/r/AnyTone/comments/han0y5/aprs_problems_the_solution_anytone_atd878uv/
+* Analog APRS, ändrat Transmit delay och Prewave time till 600 ms. Annars fungerar inte analog APRS, källa: https://www.reddit.com/r/AnyTone/comments/han0y5/aprs\_problems\_the\_solution\_anytone\_atd878uv/
 
 ## 2023-04-10 (SM0RGM)
 
