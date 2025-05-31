@@ -3,6 +3,12 @@
 
 ## 2025\-05\-12 (SM0RGM)
 
+* Ändrade kanaler per zon: 
+    * SM2
+        * \-Kalix 2 och ersatt av Kalix\-Vattentorn (samma QRG)
+
+## 2025\-05\-12 (SM0RGM)
+
 * Större uppdatering av kodpluggen som nu innehåller över 800 kanaler och zoner för SM, LA, OH, OZ, TK, JW, PA och DL (nordväst). I en sådan stor uppdatering kan det smyga sig in fel så felrapporter och förslag mottas tacksamt.
 * En del repeaternamn har ändrats för att överensstämma med ortsnamnen i SK6BA:s repeaterkarta, t ex har repeatrar i Göteborg bytt namn till Guldheden och två av repeatrarna i Helsingborg heter numera Soderasen.
 * P g a namnhamteringen mot SK6BA har repeatrar som kräver mellanslag i namnet istället ett understrykningstecken. T ex heter Upplands Väsby "Upplands\_Vasby".
