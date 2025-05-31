@@ -6,6 +6,7 @@
 * Ändrade kanaler per zon: 
     * SM2
         * \-Kalix 2 och ersatt av Kalix\-Vattentorn (samma QRG)
+        * \-Vindeln och ersatt av Skelleftea 4 (samma QRG)
 
 ## 2025\-05\-12 (SM0RGM)
 
