@@ -1,6 +1,638 @@
 
 # Changelog
 
+## 2025-09-20 (SM0RGM)
+
+* Uppdaterad mot SK6BA/SSA repeaterdatabas 2025-09-20 04:55:34
+* DigitalContacList.CSV tvättad från skandinaviska tecken
+* Ändrade kanaler per zon:
+    * JW
+        * Svalbard ändrad till Svalbard V
+    * LA
+        * Sandnessjoen 2 ändrad till Sandnessjoen 2 V
+        * Kristianstad 3 ändrad till Kristianstad 3 V
+        * Haugesund 1 ändrad till Haugesund 1 U
+        * Sandnessjoen 1 ändrad till Sandnessjoen 1 U
+        * Mo_i_Rana 1 ändrad till Mo_i_Rana 1 U
+        * Meloy LE ändrad till Meloy VLE
+        * Grimstad I ändrad till Grimstad UI
+        * Bodo I ändrad till Bodo VI
+        * Nesna LI ändrad till Nesna ULI
+        * Rodoy LI ändrad till Rodoy VLI
+        * Verdal 2 L ändrad till Verdal 2 VL
+        * Oppdal ändrad till Oppdal V
+        * Skotterud L ändrad till Skotterud VL
+        * Hokasen 1 ändrad till Hokasen 1 V
+        * Alvdalen 2 ändrad till Alvdalen 2 V
+        * Torseterkampen ändrad till Torseterkampen U
+        * Notodden 1 ändrad till Notodden 1 U
+        * Ralingen 1 ändrad till Ralingen 1 U
+        * Drammen 2 ändrad till Drammen 2 V
+        * Drammen 3 ändrad till Drammen 3 U
+        * Kongsberg 2 ändrad till Kongsberg 2 V
+        * Kongsberg 3 ändrad till Kongsberg 3 U
+        * Notodden 2 L ändrad till Notodden 2 VL
+        * Larvik L ändrad till Larvik VL
+        * Oslo 1 E ändrad till Oslo 1 UE
+        * Vangsasen ändrad till Vangsasen U
+        * Hokasen 2 ändrad till Hokasen 2 U
+        * Hokasen 3 ändrad till Hokasen 3 U
+        * Eidsvoll ändrad till Eidsvoll U
+        * Follo 2 ändrad till Follo 2 V
+        * Fredrikstad 1 ändrad till Fredrikstad 1 V
+        * Fredrikstad 2 ändrad till Fredrikstad 2 U
+        * Kongsvinger 3 ändrad till Kongsvinger 3 V
+        * Sunnhordland ändrad till Sunnhordland V
+        * Kirkenes ändrad till Kirkenes V
+        * Kristianstad 4 ändrad till Kristianstad 4 V
+        * Mo_i_Rana 2 E ändrad till Mo_i_Rana 2 VE
+        * Vesteralen ändrad till Vesteralen V
+        * Tromso 2 ändrad till Tromso 2 U
+        * S._Sunnmore E ändrad till S._Sunnmore VE
+        * Tromso 3 ändrad till Tromso 3 V
+        * Mo_i_Rana 3 LI ändrad till Mo_i_Rana 3 VLI
+        * Mosjoen 2 LI ändrad till Mosjoen 2 VLI
+        * Kongsvinger 1 ändrad till Kongsvinger 1 U
+        * Fosen ändrad till Fosen U
+        * Fredrikstad 3 L ändrad till Fredrikstad 3 VL
+        * Arendal ändrad till Arendal V
+        * Bjerkreim ändrad till Bjerkreim V
+        * Harpefoss ändrad till Harpefoss V
+        * Moss E ändrad till Moss VE
+        * Risor ändrad till Risor V
+        * Gardermoen ändrad till Gardermoen V
+        * Ralingen 2 E ändrad till Ralingen 2 VE
+        * Oslo 2 ändrad till Oslo 2 U
+        * Oslo 3 ändrad till Oslo 3 V
+        * Bergen 2 E ändrad till Bergen 2 VE
+        * Stavanger 2 ändrad till Stavanger 2 V
+        * Egersund 2 ändrad till Egersund 2 V
+        * Haugesund 2 ändrad till Haugesund 2 U
+        * Bergen 3 ändrad till Bergen 3 V
+        * Follo 1 ändrad till Follo 1 U
+        * Drammen 1 ändrad till Drammen 1 U
+        * Follo 3 ändrad till Follo 3 U
+        * Sandefjord 1 ändrad till Sandefjord 1 U
+        * Tonsberg ändrad till Tonsberg U
+        * Kvelde ändrad till Kvelde U
+        * Holmestrand ändrad till Holmestrand U
+        * Skien 1 ändrad till Skien 1 U
+        * Sandefjord 2 ändrad till Sandefjord 2 V
+        * Skien 2 ändrad till Skien 2 V
+        * Horten ändrad till Horten V
+        * Gaustatoppen ändrad till Gaustatoppen V
+        * Skien 3 ändrad till Skien 3 U
+        * Barum ändrad till Barum U
+        * Hovassfjell ändrad till Hovassfjell V
+        * Kongsberg 1 ändrad till Kongsberg 1 U
+        * Nesodden ändrad till Nesodden V
+        * Kragero ändrad till Kragero U
+        * Eirefjell ändrad till Eirefjell V
+        * Skien 4 ändrad till Skien 4 U
+        * Tromso 4 ändrad till Tromso 4 V
+        * Tromso 5 ändrad till Tromso 5 U
+    * OH0
+        * Dalkarby ändrad till Dalkarby V
+        * Jomala ändrad till Jomala U
+    * OH1
+        * Salo 1 ändrad till Salo 1 V
+        * Turku ändrad till Turku V
+        * Kiukainen ändrad till Kiukainen V
+        * Kankaanpaa ändrad till Kankaanpaa V
+        * Kaarina ändrad till Kaarina V
+        * Uusikaupunki ändrad till Uusikaupunki U
+        * Rauma ändrad till Rauma U
+        * Kokemaki ändrad till Kokemaki U
+        * Jamijarvi ändrad till Jamijarvi U
+        * Salo 2 ändrad till Salo 2 U
+        * Parainen ändrad till Parainen U
+        * Koski ändrad till Koski U
+    * OH2
+        * Loviisa 1 ändrad till Loviisa 1 V
+        * Helsinki 2 ändrad till Helsinki 2 V
+        * Lohja 2 ändrad till Lohja 2 V
+        * Porvoo 2 ändrad till Porvoo 2 U
+        * Loviisa 2 ändrad till Loviisa 2 U
+        * Artjarvi ändrad till Artjarvi U
+        * Vantaa 2 ändrad till Vantaa 2 U
+        * Jarvenpaa ändrad till Jarvenpaa U
+        * Lohja 3 ändrad till Lohja 3 U
+        * Espoo 2 ändrad till Espoo 2 V
+        * Espoo 3 ändrad till Espoo 3 V
+        * Espoo 4 ändrad till Espoo 4 U
+        * Helsinki 1 ändrad till Helsinki 1 U
+        * Espoo 1 ändrad till Espoo 1 U
+    * OH3
+        * Lahti 2 ändrad till Lahti 2 V
+        * Erkyla ändrad till Erkyla V
+        * Virrat ändrad till Virrat U
+        * Vesijako ändrad till Vesijako U
+        * Riihimaki ändrad till Riihimaki U
+        * Hameenlinna 2 ändrad till Hameenlinna 2 V
+        * Hameenlinna 3 ändrad till Hameenlinna 3 U
+        * Forssa ändrad till Forssa V
+        * Lahti 3 ändrad till Lahti 3 U
+        * Tampere 4 ändrad till Tampere 4 V
+        * Tampere 5 ändrad till Tampere 5 U
+        * Lahti 1 ändrad till Lahti 1 U
+        * Tampere 2 F ändrad till Tampere 2 UF
+        * Tampere 3 F ändrad till Tampere 3 UF
+    * OH4
+        * Mikkeli 2 ändrad till Mikkeli 2 V
+        * Mikkeli 1 ändrad till Mikkeli 1 U
+        * Pieksamaki 1 ändrad till Pieksamaki 1 U
+        * Pieksamaki 2 ändrad till Pieksamaki 2 V
+        * Savonlinna ändrad till Savonlinna V
+    * OH5
+        * Kotka 2 ändrad till Kotka 2 V
+        * Kuusankoski ändrad till Kuusankoski V
+        * Lappeenranta 2 ändrad till Lappeenranta 2 U
+        * Kouvola 2 ändrad till Kouvola 2 U
+        * Hamina ändrad till Hamina U
+        * Joutseno ändrad till Joutseno V
+    * OH6
+        * Narpio 1 ändrad till Narpio 1 V
+        * Jyvaskyla 2 ändrad till Jyvaskyla 2 V
+        * Jakobstad 1 E ändrad till Jakobstad 1 VE
+        * Jamsa 2 ändrad till Jamsa 2 V
+        * Kokkola 2 ändrad till Kokkola 2 V
+        * Jamsankoski ändrad till Jamsankoski U
+        * Seinajoki 1 ändrad till Seinajoki 1 U
+        * Jyvaskyla 3 ändrad till Jyvaskyla 3 U
+        * Kauhajoki ändrad till Kauhajoki U
+        * Teuva ändrad till Teuva U
+        * Vaasa 1 ändrad till Vaasa 1 U
+        * Narpio 2 ändrad till Narpio 2 U
+        * Jyvaskyla 4 ändrad till Jyvaskyla 4 U
+        * Kokkola 3 ändrad till Kokkola 3 U
+        * Kaustinen ändrad till Kaustinen U
+        * Jakobstad 2 ändrad till Jakobstad 2 U
+        * Saarijarvi F ändrad till Saarijarvi UF
+        * Vaasa 2 ändrad till Vaasa 2 V
+        * Pihtipudas ändrad till Pihtipudas V
+        * Seinajoki 2 ändrad till Seinajoki 2 V
+        * Lapua ändrad till Lapua V
+    * OH7
+        * Nurmes ändrad till Nurmes V
+        * Joensuu 1 ändrad till Joensuu 1 V
+        * Iisalmi 1 ändrad till Iisalmi 1 V
+        * Joensuu 2 ändrad till Joensuu 2 U
+        * Iisalmi 2 ändrad till Iisalmi 2 U
+        * Kuopio ändrad till Kuopio V
+        * Joensuu 3 ändrad till Joensuu 3 V
+    * OH8
+        * Oulu 3 ändrad till Oulu 3 V
+        * Nivala ändrad till Nivala V
+        * Kajaani 1 ändrad till Kajaani 1 V
+        * Kajaani 2 ändrad till Kajaani 2 U
+        * Oulu 4 ändrad till Oulu 4 U
+        * Pattijoki ändrad till Pattijoki U
+        * Ylivieska 2 ändrad till Ylivieska 2 U
+        * Kuusamo 1 ändrad till Kuusamo 1 V
+        * Kuusamo 2 ändrad till Kuusamo 2 U
+        * Oulu 5 ändrad till Oulu 5 U
+    * OH9
+        * Kemijarvi ändrad till Kemijarvi V
+        * Rovaniemi 1 ändrad till Rovaniemi 1 V
+        * Rovaniemi 2 ändrad till Rovaniemi 2 U
+        * Kolari ändrad till Kolari V
+        * Tervola 2 ändrad till Tervola 2 V
+        * Tornio ändrad till Tornio U
+        * Yllastunturi ändrad till Yllastunturi U
+    * OZ
+        * Roret ändrad till Roret V
+        * Maribo ändrad till Maribo U
+        * Vejle ändrad till Vejle U
+        * Ringsted 1 ändrad till Ringsted 1 U
+        * Roskilde ändrad till Roskilde U
+        * Frederikshavn 2 ändrad till Frederikshav 2 U
+        * Gilleleje ändrad till Gilleleje U
+        * Knivsbjerg 1 ändrad till Knivsbjerg 1 U
+        * Eskebjerg ändrad till Eskebjerg U
+        * Vejrhoj ändrad till Vejrhoj V
+        * Hjorring ändrad till Hjorring V
+        * Vongshoj ändrad till Vongshoj V
+        * Herning 2 ändrad till Herning 2 V
+        * Ringsted 2 ändrad till Ringsted 2 V
+        * Them ändrad till Them V
+        * Odense ändrad till Odense V
+        * Esbjerg 1 ändrad till Esbjerg 1 V
+        * Ostermarie ändrad till Ostermarie V
+        * Bandholm ändrad till Bandholm V
+        * Randers ändrad till Randers V
+        * Hanstholm ändrad till Hanstholm V
+        * Nykobing LI ändrad till Nykobing ULI
+        * Svendborg 1 ändrad till Svendborg 1 V
+        * Skive ändrad till Skive V
+        * Helsingor 1 ändrad till Helsingor 1 V
+        * Hundborg ändrad till Hundborg V
+        * Aarhus ändrad till Aarhus U
+        * Knivsbjerg 2 ändrad till Knivsbjerg 2 V
+        * Saby ändrad till Saby V
+        * Vissenbjerg ändrad till Vissenbjerg V
+        * Svendborg 2 E ändrad till Svendborg 2 UE
+        * Yding 2 ändrad till Yding 2 U
+        * Yding 3 ändrad till Yding 3 V
+        * Dutterhoj ändrad till Dutterhoj U
+        * Grenaa ändrad till Grenaa V
+        * Vejby ändrad till Vejby V
+        * Hobro ändrad till Hobro U
+        * Skjoldbjerg ändrad till Skjoldbjerg V
+        * Vestjylland ändrad till Vestjylland V
+        * Helsingor 2 ändrad till Helsingor 2 U
+        * Herlev ändrad till Herlev U
+        * Aalborg 1 ändrad till Aalborg 1 V
+        * Aalborg 2 ändrad till Aalborg 2 U
+        * Vodskov ändrad till Vodskov U
+        * Fredrikstad 4 ändrad till Fredrikstad 4 U
+        * Frederikshavn 3 ändrad till Frederikshav 3 U
+        * Aalborg 3 + ändrad till Aalborg 3 U+
+        * Ringsted 3 ändrad till Ringsted 3 U
+        * Soerup ändrad till Soerup V
+        * Ydby ändrad till Ydby V
+        * Torphoej ändrad till Torphoej V
+        * Fredericia ändrad till Fredericia V
+        * Yding 4 ändrad till Yding 4 U
+        * Esbjerg 2 ändrad till Esbjerg 2 U
+        * Fredrikstad 5 ändrad till Fredrikstad 5 U
+        * Gorlose ändrad till Gorlose U
+        * Regnemark ändrad till Regnemark U
+        * \- Yding 434.67500 MHz 
+        * \- Herning 434.71250 MHz 
+    * SM0
+        * Haninge 3 ändrad till Haninge 3 U
+        * Sandhamn L ändrad till Sandhamn UL
+        * Kopparmora L ändrad till Kopparmora UL
+        * Vastberga 1 S ändrad till Vastberga 1 V
+        * Vastberga 2 ändrad till Vastberga 2 U
+        * Brottby 1 ändrad till Brottby 1 V
+        * Brottby 2 ändrad till Brottby 2 U
+        * Kista 3 S ändrad till Kista 3 US
+        * Soder ändrad till Soder U
+        * Vallentuna 5 ändrad till Vallentuna 5 U
+        * Haninge 1 ändrad till Haninge 1 V
+        * Haninge 2 ändrad till Haninge 2 U
+        * Taby 2 I ändrad till Taby 2 U
+        * Stockholm 3 ändrad till Stockholm 3 U
+        * Nynashamn 2 ändrad till Nynashamn 2 U
+        * Botkyrka 2 ändrad till Botkyrka 2 U
+        * Tyreso + ändrad till Tyreso U+
+        * Hogdalen ändrad till Hogdalen V
+        * \+ Vasterhaninge V 145.7000 MHz FM
+        * Stockholm 1 S ändrad till Stockholm 1 VS
+        * Rimbo ändrad till Rimbo U
+        * Upplands_Vasby 2 ändrad till Upplands_Vas 2 U
+        * Sigtuna ändrad till Sigtuna U
+        * Johanneshov ändrad till Johanneshov U
+        * Dalaro ändrad till Dalaro U
+        * Stockholm 2 S ändrad till Stockholm 2 VS
+        * Kista 7 S ändrad till Kista 7 VS
+        * Upplands_Vasby 1 ändrad till Upplands_Vas 1 U
+        * Hagsatra L ändrad till Hagsatra UL
+        * Almsta 2 ändrad till Almsta 2 U
+        * Nynashamn 1 ändrad till Nynashamn 1 V
+        * Haninge 5 ändrad till Haninge 5 U
+        * Ingaro 2 SE ändrad till Ingaro 2 VSE
+        * Vallentuna 3 ändrad till Vallentuna 3 U
+        * Vastberga 1 V ändrad till Vastberga 1 VS
+        * Sodertalje 4 ändrad till Sodertalje 4 U
+        * Vallentuna 4 ändrad till Vallentuna 4 U
+        * Haninge 4 ändrad till Haninge 4 U
+        * Vallentuna 6 ändrad till Vallentuna 6 V
+        * Almsta 1 ändrad till Almsta 1 V
+        * \+ Nynashamn 7 V 145.5875 MHz DMR
+        * \- Huddinge 434.60000 MHz 
+        * \- Kista 5 434.95000 MHz 
+        * \- Kista 6 434.98750 MHz 
+        * \- Norrtalje 434.81250 MHz 
+        * \- Nynashamn 3 434.65000 MHz 
+        * \- Nynashamn 4 434.71250 MHz 
+        * \- Nynashamn 6 434.91250 MHz 
+        * \- Solna 1 145.76250 MHz 
+        * \- Solna 2 434.85000 MHz 
+        * \- Sodertalje 2 434.82500 MHz 
+        * \- Sodertalje 3 434.78750 MHz 
+        * \- Varmdo 434.97500 MHz 
+    * SM1
+        * Slite ändrad till Slite U
+        * Endre ändrad till Endre V
+    * SM2
+        * Arjeplog ändrad till Arjeplog V
+        * Skelleftea 1 ändrad till Skelleftea 1 V
+        * Vannas 1 ändrad till Vannas 1 V
+        * Vannas 2 SE ändrad till Vannas 2 USE
+        * Umea ändrad till Umea V
+        * Storuman 1 ändrad till Storuman 1 V
+        * Skelleftea 4 ändrad till Skelleftea 4 V
+        * \+ Lycksele V 145.7750 MHz FM
+        * Kiruna 1 ändrad till Kiruna 1 V
+        * Kiruna 3 ändrad till Kiruna 3 U
+        * Lulea 1 ändrad till Lulea 1 V
+        * Pitea 1 ändrad till Pitea 1 V
+        * Alvsbyn S ändrad till Alvsbyn VS
+        * Storuman 2 S ändrad till Storuman 2 US
+        * Pitea 2 ändrad till Pitea 2 U
+        * Kiruna 2 ändrad till Kiruna 2 U
+        * Lulea 2 ändrad till Lulea 2 U
+        * Kalix 3 ändrad till Kalix 3 U
+        * Seskaro ändrad till Seskaro V
+        * Kalix 1 ändrad till Kalix 1 V
+        * Kalix-Vattentorn ändrad till Kalix-Vattento U
+        * Vannas 3 ändrad till Vannas 3 U
+        * Boden 1 ändrad till Boden 1 V
+        * Pitea 3 ändrad till Pitea 3 U
+        * Boden 2 ändrad till Boden 2 U
+        * Kalix 4 ändrad till Kalix 4 U
+        * Skelleftea 2 ändrad till Skelleftea 2 V
+        * Skelleftea 3 S ändrad till Skelleftea 3 US
+        * Kiruna 4 LS ändrad till Kiruna 4 ULS
+        * Burtrask S ändrad till Burtrask US
+    * SM3
+        * Nordingra 1 ändrad till Nordingra 1 V
+        * Nordingra 2 ändrad till Nordingra 2 U
+        * Sundsvall 1 SE ändrad till Sundsvall 1 VSE
+        * Ostersund 4 E ändrad till Ostersund 4 UE
+        * Borgsjo S ändrad till Borgsjo VS
+        * Ornskoldsvik 2 S ändrad till Ornskoldsvi 2 VS
+        * Hoting ändrad till Hoting V
+        * Soderhamn 2 ändrad till Soderhamn 2 V
+        * Soderhamn 4 ändrad till Soderhamn 4 U
+        * Ornskoldsvik 3 S ändrad till Ornskoldsvi 3 US
+        * Kramfors ändrad till Kramfors U
+        * Harnosand ändrad till Harnosand U
+        * Solleftea 1 ändrad till Solleftea 1 V
+        * Ostersund 1 ändrad till Ostersund 1 V
+        * Sandviken 1 S ändrad till Sandviken 1 VS
+        * Nyland 1 ändrad till Nyland 1 V
+        * Nyland 2 ändrad till Nyland 2 U
+        * Forsa 3 ändrad till Forsa 3 U
+        * Forsa 2 S ändrad till Forsa 2 VS
+        * Gavle 2 S ändrad till Gavle 2 US
+        * Sandviken 3 S ändrad till Sandviken 3 US
+        * Arsunda ändrad till Arsunda U
+        * Gavle 1 ändrad till Gavle 1 U
+        * Sundsvall 3 ändrad till Sundsvall 3 U
+        * Follinge ändrad till Follinge U
+        * Hudiksvall 1 ändrad till Hudiksvall 1 V
+        * Hudiksvall 2 ändrad till Hudiksvall 2 U
+        * Ostersund 2 S ändrad till Ostersund 2 VS
+        * Krokom L ändrad till Krokom UL
+        * Bollnas 2 ändrad till Bollnas 2 V
+        * Ostersund 3 ändrad till Ostersund 3 U
+        * Sundsvall 4 ändrad till Sundsvall 4 U
+        * Forsa 4 ändrad till Forsa 4 V
+        * Solleftea 2 ändrad till Solleftea 2 U
+        * Osterfarnebo 2 S ändrad till Osterfarneb 2 US
+        * Raftsjohojden ändrad till Raftsjohojden V
+        * Ornskoldsvik 4 ändrad till Ornskoldsvik 4 U
+    * SM4
+        * Ludvika 1 ändrad till Ludvika 1 V
+        * Ludvika 2 ändrad till Ludvika 2 U
+        * Orsa 2 S ändrad till Orsa 2 US
+        * Torsby 2 ändrad till Torsby 2 U
+        * Arjang ändrad till Arjang V
+        * Mora 3 ändrad till Mora 3 U
+        * Nyhammar L ändrad till Nyhammar VL
+        * Grangesberg L ändrad till Grangesberg VL
+        * Torsby 1 L ändrad till Torsby 1 VL
+        * Grums ändrad till Grums U
+        * Vansbro 1 ändrad till Vansbro 1 V
+        * \+ Vansbro 4 U 434.6500 MHz FM
+        * Orebro 1 ändrad till Orebro 1 V
+        * Orsa 1 E ändrad till Orsa 1 VE
+        * Eksharad HI ändrad till Eksharad UHI
+        * Sunne 2 HI ändrad till Sunne 2 UHI
+        * Borlange 1 ändrad till Borlange 1 U
+        * Hagfors 2 E ändrad till Hagfors 2 VE
+        * Lindesberg 1 ändrad till Lindesberg 1 V
+        * Arvika 1 ändrad till Arvika 1 U
+        * Sunne 1 ändrad till Sunne 1 V
+        * Garphyttan ändrad till Garphyttan V
+        * Leksand 2 I ändrad till Leksand 2 VI
+        * Borlange 2 ändrad till Borlange 2 U
+        * Vansbro 3 ändrad till Vansbro 3 U
+        * Kopparberg 1 ändrad till Kopparberg 1 V
+        * Arvika 2 ändrad till Arvika 2 U
+        * Karlskoga 2 ändrad till Karlskoga 2 U
+        * Falun 2 ändrad till Falun 2 U
+        * Falun 1 S ändrad till Falun 1 VS
+        * Karlskoga 1 ändrad till Karlskoga 1 V
+        * Leksand 3 ändrad till Leksand 3 U
+        * Orebro 2 ändrad till Orebro 2 U
+        * Malung H ändrad till Malung VH
+        * Salen S ändrad till Salen VS
+        * Alvdalen 1 LS ändrad till Alvdalen 1 ULS
+        * Nybble LS ändrad till Nybble VLS
+        * Lindesberg 2 LS ändrad till Lindesberg 2 VLS
+        * Orsa 3 LS ändrad till Orsa 3 VLS
+        * Smedjebacken ändrad till Smedjebacken U
+        * Karlstad S ändrad till Karlstad VS
+        * \- Nusnas 434.92500 MHz 
+    * SM5
+        * Linkoping 2 ändrad till Linkoping 2 V
+        * Finspang 1 ändrad till Finspang 1 U
+        * Kisa ändrad till Kisa V
+        * Eskilstuna 3 S ändrad till Eskilstuna 3 US
+        * Norrkoping 2 ändrad till Norrkoping 2 V
+        * Norrkoping 3 S ändrad till Norrkoping 3 US
+        * Linkoping 6 ändrad till Linkoping 6 U
+        * Uppsala 4 ändrad till Uppsala 4 U
+        * Uppsala 2 ändrad till Uppsala 2 V
+        * Vasteras 1 S ändrad till Vasteras 1 VS
+        * Vasteras 3 S ändrad till Vasteras 3 US
+        * Linkoping 3 S ändrad till Linkoping 3 VS
+        * Sala 1 E ändrad till Sala 1 VE
+        * Linkoping 4 ändrad till Linkoping 4 U
+        * Linkoping 1 ändrad till Linkoping 1 VS
+        * Uppsala 3 H ändrad till Uppsala 3 UH
+        * Norrkoping 4 ändrad till Norrkoping 4 U
+        * Knivsta ändrad till Knivsta U
+        * Linkoping 7 ändrad till Linkoping 7 U
+        * Arboga 2 ändrad till Arboga 2 U
+        * Arboga 1 ändrad till Arboga 1 V
+        * Uppsala 5 ändrad till Uppsala 5 U
+        * Uppsala 1 S ändrad till Uppsala 1 VS
+        * Eskilstuna 4 ändrad till Eskilstuna 4 U
+        * Eskilstuna 2 SE ändrad till Eskilstuna 2 VSE
+        * Flen 3 S ändrad till Flen 3 US
+        * Flen 1 ändrad till Flen 1 V
+        * Atvidaberg SE ändrad till Atvidaberg VSE
+        * Linkoping 5 ändrad till Linkoping 5 U
+        * Uppsala 6 ändrad till Uppsala 6 U
+        * Finspang 3 ändrad till Finspang 3 U
+        * Nykoping 2 ändrad till Nykoping 2 U
+        * Stigtomta LF ändrad till Stigtomta VLF
+        * Norrkoping 5 ändrad till Norrkoping 5 U
+        * Uppsala 8 LS ändrad till Uppsala 8 VLS
+        * Uppsala 9 LS ändrad till Uppsala 9 ULS
+        * Flen 2 ändrad till Flen 2 V
+        * Motala ändrad till Motala V
+        * Jarlasa ändrad till Jarlasa V
+        * \- Trosa 434.88750 MHz 
+    * SM6
+        * \+ Falkenberg VS 145.6250 MHz FM
+        * \+ Vedum VS 145.7875 MHz FM
+    * SM6 Gbg
+        * Angered ändrad till Angered U
+        * Floda 1 LI ändrad till Floda 1 ULI
+        * Amal ändrad till Amal U
+        * Kungalv 2 ändrad till Kungalv 2 U
+        * Kungalv 1 ändrad till Kungalv 1 V
+        * Kungalv 3 ändrad till Kungalv 3 U
+        * Molndal 1 EI ändrad till Molndal 1 VEI
+        * Molndal 2 EI ändrad till Molndal 2 UEI
+        * Guldheden 1 ändrad till Guldheden 1 U
+        * Kungsbacka 2 ändrad till Kungsbacka 2 V
+        * Kortedala 1 LE ändrad till Kortedala 1 VLE
+        * Langedrag LE ändrad till Langedrag VLE
+        * Hono 1 LE ändrad till Hono 1 VLE
+        * Guldheden 2 LE ändrad till Guldheden 2 VLE
+        * Molnlycke LE ändrad till Molnlycke VLE
+        * Guldheden 3 ändrad till Guldheden 3 U
+        * Floda 2 ändrad till Floda 2 U
+        * Kortedala 2 ändrad till Kortedala 2 V
+        * Kungsbacka 3 ändrad till Kungsbacka 3 U
+        * Guldheden 4 S ändrad till Guldheden 4 US
+        * Guldheden 5 S ändrad till Guldheden 5 VS
+        * Ockero 2 ändrad till Ockero 2 U
+        * Ockero 1 S ändrad till Ockero 1 VS
+        * Kungsbacka 1 LE ändrad till Kungsbacka 1 VLE
+        * Guldheden 6 LE ändrad till Guldheden 6 VLE
+        * Guldheden 7 ändrad till Guldheden 7 U
+    * SM6 Ovriga
+        * Mariestad E ändrad till Mariestad UE
+        * Varberg 2 ändrad till Varberg 2 U
+        * Varberg 1 ändrad till Varberg 1 V
+        * Kinnekulle 2 ändrad till Kinnekulle 2 U
+        * Alvangen ändrad till Alvangen U
+        * Tidaholm ändrad till Tidaholm V
+        * Ulricehamn 2 ändrad till Ulricehamn 2 U
+        * Halmstad 3 ändrad till Halmstad 3 U
+        * Skovde 2 ändrad till Skovde 2 U
+        * Boras 4 ändrad till Boras 4 U
+        * Skovde 1 ändrad till Skovde 1 V
+        * Ulricehamn 1 ändrad till Ulricehamn 1 V
+        * Trollhattan 1 ändrad till Trollhattan 1 V
+        * Halmstad 2 ändrad till Halmstad 2 U
+        * Kinnekulle 1 ändrad till Kinnekulle 1 V
+        * Boras 2 ändrad till Boras 2 V
+        * Alingsas 2 ändrad till Alingsas 2 V
+        * Alingsas 4 S ändrad till Alingsas 4 US
+        * Bengtsfors 1 ändrad till Bengtsfors 1 V
+        * Bengtsfors 2 ändrad till Bengtsfors 2 U
+        * Skarsjon LE ändrad till Skarsjon VLE
+        * Boras 1 LE ändrad till Boras 1 VLE
+        * Bokenas S ändrad till Bokenas VS
+        * Lysekil S ändrad till Lysekil US
+        * Skara 3 ändrad till Skara 3 U
+        * Boras 3 ändrad till Boras 3 U
+        * Alingsas 3 ändrad till Alingsas 3 U
+        * Tanumshede S ändrad till Tanumshede VS
+        * Halmstad 1 S ändrad till Halmstad 1 VS
+        * Skene 1 EI ändrad till Skene 1 VEI
+        * Skene 3 EI ändrad till Skene 3 UEI
+        * Skene 2 HI ändrad till Skene 2 UHI
+        * Stenungsund 2 SE ändrad till Stenungsun 2 VSE
+        * Kungshamn S ändrad till Kungshamn VS
+        * Skara 1 ändrad till Skara 1 V
+        * Myggenas LE ändrad till Myggenas VLE
+        * Skara 2 ändrad till Skara 2 U
+        * Torup S ändrad till Torup US
+        * Hjo LS ändrad till Hjo VLS
+        * Uddevalla 1 S ändrad till Uddevalla 1 VS
+        * Orby 1 LSE ändrad till Orby 1 VLSE
+        * Karlsborg ändrad till Karlsborg V
+        * Dingle ändrad till Dingle U
+        * Orby 2 LA ändrad till Orby 2 ULA
+        * Vargarda ändrad till Vargarda U
+        * \- Trollhattan 2 434.72500 MHz 
+        * \- Uddevalla 2 S 434.77500 MHz 
+    * SM7
+        * \+ Vaxjo 3 VA 145.5750 MHz FM
+        * \+ Solvesborg 2 U 434.6250 MHz FM
+    * SM7 Ovriga
+        * Borgholm 1 SE ändrad till Borgholm 1 VSE
+        * Morbylanga SE ändrad till Morbylanga VSE
+        * Boda SE ändrad till Boda VSE
+        * Karlskrona 1 ändrad till Karlskrona 1 V
+        * Karlskrona 2 ändrad till Karlskrona 2 U
+        * Vaxjo 2 ändrad till Vaxjo 2 U
+        * Olofstrom 2 I ändrad till Olofstrom 2 UI
+        * Olofstrom 1 E ändrad till Olofstrom 1 VE
+        * Vetlanda 2 ändrad till Vetlanda 2 U
+        * Ljungby SE ändrad till Ljungby VSE
+        * Nassjo 3 ändrad till Nassjo 3 U
+        * Oskarshamn 1 ändrad till Oskarshamn 1 V
+        * Oskarshamn 2 ändrad till Oskarshamn 2 U
+        * Hultsfred ändrad till Hultsfred V
+        * Bredaryd ändrad till Bredaryd V
+        * Emmaboda 1 ändrad till Emmaboda 1 V
+        * Nybro ändrad till Nybro V
+        * Vaxjo 1 SE ändrad till Vaxjo 1 VSE
+        * Vetlanda 1 ändrad till Vetlanda 1 V
+        * Huskvarna ändrad till Huskvarna U
+        * Jonkoping 2 ändrad till Jonkoping 2 V
+        * Algutsrum 3 SE ändrad till Algutsrum 3 USE
+        * Nassjo 2 ändrad till Nassjo 2 V
+        * Nassjo 4 ändrad till Nassjo 4 U
+        * Bruzaholm ändrad till Bruzaholm U
+        * Nassjo 1 ändrad till Nassjo 1 V
+        * Hillerstorp ändrad till Hillerstorp U
+        * Karlshamn ändrad till Karlshamn U
+        * Eksjo ändrad till Eksjo U
+        * Vastervik 1 ändrad till Vastervik 1 V
+        * Algutsrum 1 SE ändrad till Algutsrum 1 VSE
+        * Jonkoping 3 ändrad till Jonkoping 3 U
+        * Algutsrum 2 I ändrad till Algutsrum 2 UI
+        * Varnamo 1 ändrad till Varnamo 1 V
+        * Sodra_Vi 1 ändrad till Sodra_Vi 1 U
+        * Vastervik 2 ändrad till Vastervik 2 U
+        * Ekenassjon 2 ändrad till Ekenassjon 2 V
+        * Ekenassjon 1 H ändrad till Ekenassjon 1 VH
+        * Emmaboda 2 ändrad till Emmaboda 2 U
+        * Spjutsbygd 1 S ändrad till Spjutsbygd 1 VS
+        * Linderod I ändrad till Linderod VI
+        * Farjestaden LSE ändrad till Farjestaden VLSE
+        * Moheda SE ändrad till Moheda VSE
+        * Borgholm 2 SE ändrad till Borgholm 2 USE
+        * Borgholm 3 LS ändrad till Borgholm 3 VLS
+        * Jonkoping 4 S ändrad till Jonkoping 4 VS
+        * Sodra_Vi 2 LAE ändrad till Sodra_Vi 2 ULAE
+        * Solvesborg L ändrad till Solvesborg 1 L
+        * \- Solvesborg 1 L 434.40000 MHz 
+    * SM7 Skane
+        * Sjobo ändrad till Sjobo U
+        * Lund 1 ändrad till Lund 1 V
+        * Vitaby ändrad till Vitaby V
+        * Gladsax 2 ändrad till Gladsax 2 U
+        * Soderasen 1 S ändrad till Soderasen 1 VS
+        * Gladsax 1 I ändrad till Gladsax 1 VI
+        * Kristianstad 1 S ändrad till Kristiansta 1 VS
+        * Blentarp 2 ändrad till Blentarp 2 U
+        * Hallandsas 1 S ändrad till Hallandsas 1 VS
+        * Lund 3 ändrad till Lund 3 U
+        * Lund 2 ändrad till Lund 2 U
+        * Soderasen 2 ändrad till Soderasen 2 U
+        * Orkelljunga ändrad till Orkelljunga U
+        * Kristianstad 2 ändrad till Kristianstad 2 U
+        * Hoor ändrad till Hoor U
+        * Helsingborg 2 ändrad till Helsingborg 2 U
+        * Malmo 2 ändrad till Malmo 2 U
+        * Tomelilla ändrad till Tomelilla U
+        * Everod LS ändrad till Everod VLS
+        * Malmo 1 I ändrad till Malmo 1 UI
+        * Eslov 2 ändrad till Eslov 2 U
+        * Hallandsas 2 S ändrad till Hallandsas 2 US
+        * Lonsboda 2 ändrad till Lonsboda 2 U
+    * TF
+        * Bruaras ändrad till Bruaras V
+        * Reykjavik 1 ändrad till Reykjavik 1 V
+        * Reykjavik 2 ändrad till Reykjavik 2 V
+        * Akureyri ändrad till Akureyri V
+        * Burfell ändrad till Burfell V
+
+codeplugadmin 1.1 (2025-07-26)
+
 ## 2025\-07\-29 (SM0RGM)
 
 * Kanaler, zoner, scanlistor, roamingkanaler och roamingzoner för PA och DL ligger nu som separata filer under mappen Extra. Den som vill ha in dessa kanaler behöver själv klippa och klistra in dem i CSV-filerna efter att tillräcklig mängd kanaler i ordinarie kodplugg tagits bort. Anledningen är att Roaming Channels inte rymmer alla de kanaler som behövs för att alla kanaler från SK6BA plus PA och DL-NW.
