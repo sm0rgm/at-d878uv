@@ -35,6 +35,8 @@ eller
 * SM7GSA Kurt
 * SA0JLA Jonas
 
+* Tack till SK6BL och SM6TZL Dan exporten av repeaterdatabasen.
+
 Har jag glömt någon? Feel free att skapa en Pull Request eller ett issue!
 
-73's de SM0RUX Pontus
+73's de SM0RGM Stefan (tidigare SM0RUX Pontus SK)
