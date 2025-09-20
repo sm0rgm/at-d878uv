@@ -1,6 +1,21 @@
 
 # Changelog
 
+## 2025\-07\-29 (SM0RGM)
+
+* Kanaler, zoner, scanlistor, roamingkanaler och roamingzoner för PA och DL ligger nu som separata filer under mappen Extra. Den som vill ha in dessa kanaler behöver själv klippa och klistra in dem i CSV-filerna efter att tillräcklig mängd kanaler i ordinarie kodplugg tagits bort. Anledningen är att Roaming Channels inte rymmer alla de kanaler som behövs för att alla kanaler från SK6BA plus PA och DL-NW.
+
+## 2025\-07\-26 (SM0RGM)
+
+* Filer uppdaterade för CPS och FW version 3.08N.
+
+## 2025\-06\-05 (SM0RGM)
+
+* Ändrade kanaler per zon: 
+    * SM0
+        * Stockholm city bytt namn till Stockholm 3
+ 
+
 ## 2025\-05\-12 (SM0RGM)
 
 * Ändrade kanaler per zon: 
