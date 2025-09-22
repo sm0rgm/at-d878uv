@@ -79,6 +79,8 @@ Se denna [artikel av K7KEZ](https://k7kez.com/aprs-settings-for-the-iss-internat
 
 Jag rekommenderar att du hämtar filerna som jag har packat ihop i en [release](https://github.com/sm0rgm/at-d878uv/releases) istället för att hämta mina arbetsfiler!
 
+OBS! Formatet på CSV-filerna skiljer mellan de olika radiomodellerna (878/578/168). Om man försöker importera CSV-filer för fel radiomodell så får man inget felmeddelande men resultatet blir att alla digitala kanler får CC 1. Ladda ner filerna från den release som är avsedd för din radiomodell!
+
 ### När filerna är hämtade... 
 
 CSV-filerna kan du använda om du har en befintlig radio eller kodplugg som du vill uppdatera med kanaler, zoner, scalistor etc. 
