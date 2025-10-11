@@ -1,7 +1,14 @@
 
 # Changelog
 
-## 2025-09-20 (SM0RGM)
+## 2025\-10\-11 (SM0RGM)
+
+* Fixat CSV-header för filerna i Extra/DL och Extra/PA.
+* Ändrade kanaler per zon:
+    * PA
+        * \+ Leiden 430.0500 MHz FM 88.5 Hz +1.6 MHz
+
+## 2025\-09\-20 (SM0RGM)
 
 * Uppdaterad mot SK6BA/SSA repeaterdatabas 2025-09-20 04:55:34
 * DigitalContacList.CSV tvättad från skandinaviska tecken
