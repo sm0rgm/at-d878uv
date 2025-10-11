@@ -34,6 +34,7 @@ eller
 * SA0BUX Lars
 * SM7GSA Kurt
 * SA0JLA Jonas
+* PD1EG Eelco
 
 * Tack till SK6BL och SM6TZL Dan exporten av repeaterdatabasen.
 
