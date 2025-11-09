@@ -52,8 +52,14 @@ Den digitala kontaktlistan innehåller call från SM/LA/OH/OZ för att få ner s
 
 ## Suffix i repeaternamn
 
-För att indikera typ av repeater eller vilket nätverk den är ansluten mot finns numera en eller flera bokstäver som suffix till repeaterns namn. Om repeatern är ansluten till Brandmeister för DMR eller är en lokal FM-repeater utan anslutning till reflektornätverk finns ingen bokstav angiven. Bokstäverna betyder:
+För att indikera typ av repeater eller vilket nätverk den är ansluten mot finns numera en eller flera bokstäver som suffix till repeaterns namn. Om repeatern är ansluten till Brandmeister för DMR eller är en lokal FM-repeater utan anslutning till reflektornätverk finns ingen bokstav angiven. 
 
+För att underlätta för instegsamatörer har numera kanalnamnet en indikering om kkanalen är 2m (V) eller 70 cm (U).
+
+Bokstäverna betyder:
+
+V = VHF 2m
+U = UHF 70 cm
 L = Link (simplex)
 A = AllstarLink
 S = SVXlink
