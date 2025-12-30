@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2025\-12\-30 (SM0RGM)
+
+* Lade till två kanaler i SM5 som saknades i zonen.
+
 ## 2025\-12\-28 (SM0RGM)
 
 * Uppdaterad mot SK6BA/SSA repeaterdatabas 2025-12-28 10:26:26
