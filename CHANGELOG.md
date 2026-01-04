@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2026\-01\-04 (SM0RGM)
+
+* Vastberga 1 VS -> Vastberga 1 V + 123.0 Hz subton
+
 ## 2025\-12\-30 (SM0RGM)
 
 * Lade till två kanaler i SM5 som saknades i zonen.
