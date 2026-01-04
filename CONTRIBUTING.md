@@ -36,6 +36,7 @@ eller
 * SA0JLA Jonas
 * PD1EG Eelco
 * SA3MYS Magnus
+* [SM0LVG Sven](https://github.com/junsve)
 
 * Tack till SK6BL och SM6TZL Dan exporten av repeaterdatabasen.
 
