@@ -6,6 +6,12 @@
 * Ändrade kanaler per zon:
     * Extra/PA
         * \+ Vlissingen 438.0375 MHz DMR
+        * \+ Rijswijk-ZH 438.3750 MHz DMR
+        * \+ Geldrop 438.4750 MHz DMR
+        * \+ Uelsen (DL) 439.5125 MHz DMR
+        * \+ Stadtlohn (DL) 438.3625 MHz DMR
+        * \+ Rees (DL) 438.4250 MHz DMR
+        * \+ Turnhout (ON) 438.7125 MHz DMR
  
 ## 2026\-01\-04 (SM0RGM)
 
