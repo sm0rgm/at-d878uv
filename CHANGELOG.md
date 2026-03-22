@@ -1,6 +1,12 @@
 
 # Changelog
 
+## 2026\-03\-16 (SM0RGM)
+
+* Ändrade kanaler per zon:
+    * Extra/PA
+        * \+ Vlissingen 438.0375 MHz DMR
+ 
 ## 2026\-01\-04 (SM0RGM)
 
 * Vastberga 1 VS -> Vastberga 1 V + 123.0 Hz subton
