@@ -1,6 +1,66 @@
 
 # Changelog
 
+## 2026-07-19 (SM0RGM)
+
+* Uppdaterad mot SK6BA/SSA repeaterdatabas 2026-07-19 12:26:05
+* DigitalContacList.CSV tvättad från skandinaviska tecken
+* Ändrade kanaler per zon:
+    * LA
+        * \- Mosjoen 1 434.82500 MHz 
+    * OZ
+        * Roret V ändrad till Roret 1 V
+        * \+ Roret 2 U 434.8375 MHz FM
+    * SM0
+        * Vastberga 1 VS ändrad till Vastberga 1 V
+        * Haninge 1 V ändrad till Haninge 1 VS
+        * \+ Vallentuna 8 U 434.825 MHz FM
+        * \+ Arlanda U 434.9125 MHz DMR
+        * \- Nynashamn 1 V 145.71250 MHz 
+        * \- Nynashamn 2 U 434.61250 MHz 
+        * \- Vallentuna 3 U 434.55000 MHz 
+        * \- Nynashamn 7 V 145.58750 MHz 
+        * \- Vallentuna 7 U 434.92500 MHz 
+    * SM2
+        * \+ Aspliden V 145.675 MHz FM
+        * \- Vindeln 145.62500 MHz 
+    * SM3
+        * Forsa 2 VS ändrad till Forsa 2 V
+        * \- Forsa 4 V 145.60000 MHz 
+    * SM4
+        * \- Leksand 3 U 434.61250 MHz 
+    * SM5
+        * \+ Stallarholmen US 434.95 MHz FM
+        * \- Norrkopin 6 VLSE 145.23750 MHz 
+        * \- Norrkoping 5 U 434.66250 MHz 
+    * SM6
+        * \+ Hemsjo U 434.825 MHz FM / DMR
+        * \+ Karlsborg 2 UL 433.7625 MHz DMR
+        * \+ Orby 3 VLS 144.85 MHz FM
+    * SM6 Gbg
+        * Molndal 1 VEI ändrad till Molndal 1 VE
+        * Molndal 2 UEI ändrad till Molndal 2 UE
+        * Guldheden 4 US ändrad till Guldheden 4 U
+        * \- Floda 2 U 434.82500 MHz 
+        * \- Guldheden 7 U 434.60000 MHz 
+        * \- Kungalv 1 V 145.61250 MHz 
+        * \- Kungalv 3 U 434.90000 MHz 
+    * SM6 Ovriga
+        * Skene 1 VEI ändrad till Skene 1 VSEI
+        * Skene 3 UEI ändrad till Skene 3 USEI
+        * Karlsborg V ändrad till Karlsborg 1 V
+        * \- Trollhattan 3 434.87500 MHz 
+    * SM7
+        * \+ Soderasen 3 VLA 145.2375 MHz FM
+        * \+ Blentarp 3 V 145.675 MHz FM / C4FM
+        * \+ Farjestaden VLSE 145.2375 MHz FM
+        * \+ Horja V 145.7625 MHz FM
+        * \+ Vaxjo 4 VLA 145.2375 MHz FM
+    * SM7 Ovriga
+        * \- Vaxjo 3 VA 145.57500 MHz 
+
+codeplugadmin 1.1 (2025-07-26)
+
 ## 2026\-03\-16 (SM0RGM)
 
 * Ändrade kanaler per zon:
@@ -12,6 +72,7 @@
         * \+ Stadtlohn (DL) 438.3625 MHz DMR
         * \+ Rees (DL) 438.4250 MHz DMR
         * \+ Turnhout (ON) 438.7125 MHz DMR
+        * \+ Antwerp (ON) 439.3500 MHz DMR/FM
  
 ## 2026\-01\-04 (SM0RGM)
 
