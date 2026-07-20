@@ -5,6 +5,7 @@
 
 * Uppdaterad mot SK6BA/SSA repeaterdatabas 2026-07-19 12:26:05
 * DigitalContacList.CSV tvättad från skandinaviska tecken
+* SM6 Övriga är ersatt av SM6 Norr och SM6 Syd (norr resp syd om Göteborg)
 * Ändrade kanaler per zon:
     * LA
         * \- Mosjoen 1 434.82500 MHz 
