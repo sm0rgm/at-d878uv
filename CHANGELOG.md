@@ -1,6 +1,12 @@
 
 # Changelog
 
+## 2026-07-27 (SM0RGM)
+
+* Ändrade kanaler per zon:
+    * Diverse
+        * \+ ISS Transponder 437.800 / 145.990 MHz 67 Hz FM 
+
 ## 2026-07-19 (SM0RGM)
 
 * Uppdaterad mot SK6BA/SSA repeaterdatabas 2026-07-19 12:26:05
