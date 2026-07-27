@@ -2,7 +2,7 @@
 
 ## Copyright
 
-© 2019-2024 by SM0RUX Pontus Falk
+© 2019-2026 by SM0RUX Pontus Falk & SM0RGM Stefan Helander
 
 Filerna är tillgängliga under [GPLv3](https://github.com/sm0rux/at-d878uv/blob/master/LICENSE).
 
@@ -58,17 +58,17 @@ För att underlätta för instegsamatörer har numera kanalnamnet en indikering 
 
 Bokstäverna betyder:
 
-V = VHF 2m
-U = UHF 70 cm
-L = Link (simplex)
-A = AllstarLink
-S = SVXlink
-E = EchoLink
-H = Hotspot (DMR)
-F = FreeDMR / FinDMR
-+ = DMR+ / DMR Plus
-I = IRLP / ircDDB
-P = HAMphone
+* V = VHF 2m
+* U = UHF 70 cm
+* L = Link (simplex)
+* A = AllstarLink
+* S = SVXlink
+* E = EchoLink
+* H = Hotspot (DMR)
+* F = FreeDMR / FinDMR
+* + = DMR+ / DMR Plus
+* I = IRLP / ircDDB
+* P = HAMphone
 
 ## APRS ISS
 
@@ -108,6 +108,7 @@ Om du bara vill uppdatera din radio med kanaler, scanlistor, roaming och zoner m
 
 * Om du får band error när du försöker programmera radion så överensstämmer radions MODE inte med RDT-filens. RDT-filen är gjord för mode 00003 Amateur bands Europe. Starta radion samtidigt som du håller PTT och siffran 1 inne. Vrid sedan på kanalvredet för att ställa in MODE 00003. 
 Alternativt, om du vill ha din radio i en annan mode så läs in radion i CPS och importera CSV-filerna (välj N0CALL.LST för att välja alla filer på en gång).
+* Om du inte kan ändra mode enligt ovan så kan det bero på att din radio står i Professional Mode. Läs då in radion i CPS och gå in i Optional Setting -> Work Mode och ställ in Amateur Mode. Professional Mode innebär kommersiellt läge, d v s en radio med "barnlås" där många funktioner är blockerade. Vi radioamatörer vill komma åt allt och det gör man i Amateur Mode. När du har ändrat till Amateur Mode skriver du tillbaka kodpluggen till radion. Nu ska du kunna ändra MODE enligt punkten ovan.
 * Varför är inte repeatrarnas benämning dess callsign, t ex "SK7ABC" utan de står med ortsnamn? Repeaterns callsign eller kanalnummer är praktiskt om du är på din hemmaort och känner till vilka repeatrar som finns. Kodpluggen är gjord för att man ska kunna använda den när man reser och kommer till en ny ort. Som SM0:a så säger mig SK7ABC ingenting men ortsnamnet "Helsingborg" t ex ger mig en geografisk indikation om att repeatern finns i närheten om jag t ex befinner mig i Helsingborstrakten.
 
 ## SM0RUX/Pontus silent key
