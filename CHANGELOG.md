@@ -3,6 +3,10 @@
 
 ## 2026-07-27 (SM0RGM)
 
+Zonen SM6 Norr bytt namn till SM6 Nord i analogi med SM6 Syd.
+
+## 2026-07-27 (SM0RGM)
+
 * Ändrade kanaler per zon:
     * Diverse
         * \+ ISS Transponder 437.800 / 145.990 MHz 67 Hz FM 
