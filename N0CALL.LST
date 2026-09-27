@@ -1,4 +1,4 @@
-20
+25
 0,"Channel.CSV"
 1,"RadioIDList.CSV"
 2,"Zone.CSV"
@@ -19,3 +19,8 @@
 17,"RoamingChannel.CSV"
 18,"RoamingZone.CSV"
 19,"APRS.CSV"
+20,"GPSRoaming.CSV"
+21,"OptionalSetting.CSV"
+22,"AlertTone.CSV"
+23,"AESEncryptionCode.CSV"
+24,"ARC4EncryptionCode.CSV"
