@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 2026-09-27 (SM0RGM)
+
+Lade till saknade CSV-filer för CPS 4.0. Bland annat Optional Settings.
+
 ## 2026-07-27 (SM0RGM)
 
 Zonen SM6 Norr bytt namn till SM6 Nord i analogi med SM6 Syd.
